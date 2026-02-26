@@ -2477,46 +2477,46 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 > Explore AntiCheat System:BE
 - https://github.com/Schnocker/NoEye
 - https://github.com/ZoondEngine/NoBastian_v2 [Elevating Handle By LSASS]
-- https://github.com/haram/splendid_implanter
-- https://github.com/HadockKali/battleye-user-mode-bypass [SetWindowsHookExW]
+- https://github.com/gmh5225/splendid_implanter
+- https://github.com/gmh5225/battleye-user-mode-bypass [SetWindowsHookExW]
 - https://github.com/gmh5225/BE-Emulator
-- https://github.com/masterpastaa/BattlEye-Handler-BYPASS
-- https://github.com/dllcrt0/battleye-decryption
+- https://github.com/gmh5225/BattlEye-Handler-BYPASS
+- https://github.com/gmh5225/battleye-decryption
 - https://github.com/dllcrt0/bedaisy-reversal
-- https://github.com/dllcrt0/battleye-shellcode [shellcode]
+- https://github.com/gmh5225/battleye-shellcode [shellcode]
 - https://github.com/gmh5225/BE-BattlEye_shellcode [shellcode]
 - https://github.com/Compiled-Code/be-injector [Attack COW]
-- https://github.com/Aki2k/BEDaisy
+- https://github.com/gmh5225/BEDaisy
 - https://github.com/gmh5225/BadEye
-- https://github.com/zouxianyu/BlindEye [Packet Fucker]
-- https://github.com/huoji120/goodeye
-- https://github.com/LilPidgey/BEClient
-- https://github.com/lguilhermee/Battleye-Shellcode-Dumper [BEClient2.dll Dumper]
-- https://github.com/es3n1n/be-shellcode-tester [BattlEye shellcodes tester]
-- https://github.com/steffalon/battleye-rust [BattlEye RCON UDP connection]
-- https://github.com/Hypercall/FakeEye [Emulator]
-- https://github.com/mexploitui/FakeEye [Emulator]
-- https://github.com/tr1xxx/battleye-region-walking
-- https://github.com/SurgeGotTappedAgain/Pink-Eye
-- https://github.com/R4YVEN/beservice_intcallbacks [Instrumentation Callback]
+- https://github.com/gmh5225/BlindEye [Packet Fucker]
+- https://github.com/gmh5225/goodeye
+- https://github.com/gmh5225/BEClient
+- https://github.com/gmh5225/Battleye-Shellcode-Dumper [BEClient2.dll Dumper]
+- https://github.com/gmh5225/be-shellcode-tester [BattlEye shellcodes tester]
+- https://github.com/gmh5225/battleye-rust [BattlEye RCON UDP connection]
+- https://github.com/gmh5225/FakeEye [Emulator]
+- https://github.com/gmh5225/FakeEye [Emulator]
+- https://github.com/gmh5225/battleye-region-walking
+- https://github.com/gmh5225/Pink-Eye
+- https://github.com/gmh5225/beservice_intcallbacks [Instrumentation Callback]
 - https://github.com/gmh5225/bedaisy-bypass [BEDaisy.sys report bypass]
 
 > Explore AntiCheat System:EQU8
 - https://blog.back.engineering/12/08/2021
-- https://github.com/kkent030315/EQU8-PoC
-- https://github.com/hotline1337/equ8_bypass
+- https://github.com/gmh5225/EQU8-PoC
+- https://github.com/gmh5225/equ8_bypass
 
 > Explore AntiCheat System:Ricochet
-- https://github.com/weak1337/ricochet_deobfuscator
+- https://github.com/gmh5225/ricochet_deobfuscator
 - https://github.com/gmh5225/AurumRE
 - https://github.com/gmh5225/ricochet-disabler
 
 > Explore AntiCheat System:RIOT
-- https://github.com/Nuxar1/DecryptionDumper [Dump]
-- https://github.com/lil-skies/val-exception-handler [ZwRaiseException Dump]
+- https://github.com/gmh5225/DecryptionDumper [Dump]
+- https://github.com/gmh5225/val-exception-handler [ZwRaiseException Dump]
 - https://github.com/gmh5225/Dump-val-exception-handler [RtlpCallVectoredHandlers Dump]
 - https://github.com/gmh5225/VanguardImportResolver [Resolve vgk's protected imports]
-- https://github.com/armvirus/VanguardTrace [Decrypting and intercepting encrypted imports of Vanguards Kernel Driver]
+- https://github.com/gmh5225/VanguardTrace [Decrypting and intercepting encrypted imports of Vanguards Kernel Driver]
 - https://www.unknowncheats.me/forum/anti-cheat-bypass/578829-unveiling-unseen-vanguards-guarded-regions.html [CR3 Protection]
 - https://github.com/gmh5225/vgk-illegal-pf-logger [VGK's illegal PF]
 - https://github.com/gmh5225/KernelSnippets/blob/main/VGK_SwapContextHk.h [VGK's SwapContextHk]
@@ -2527,17 +2527,17 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 - https://github.com/gmh5225/XignCode3-bypass
 
 > Explore AntiCheat System:ACE
-- https://github.com/H3d9/sguard_limit
-- https://github.com/rogxo/ReadPhys
+- https://github.com/gmh5225/sguard_limit
+- https://github.com/gmh5225/ReadPhys
 
 > Explore AntiCheat System:G-Presto
-- https://github.com/ARandomPerson7/G-Presto-Anti-Cheat-Reverse-Engineered/blob/main/Main.cpp
+- https://github.com/gmh5225/G-Presto-Anti-Cheat-Reverse-Engineered/blob/main/Main.cpp
 
 > Explore AntiCheat System:NeacSafe
 - https://github.com/gmh5225/NeacSafe-Analysis
 
 > Explore AntiCheat System:BadlionAnticheat
-- https://github.com/KiFilterFiberContext/BadlionLogger
+- https://github.com/gmh5225/BadlionLogger
 
 > Explore AntiCheat System:Byfron
 - https://byfron.com/
@@ -2552,27 +2552,27 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 - https://github.com/gmh5225/NexonGameSecurity-bypass-wow64
 
 > Explore AntiCheat System:FACEIT
-- https://github.com/ekknod/EC_PRO-LAN
+- https://github.com/gmh5225/EC_PRO-LAN
 
 > Explore AntiCheat System:CS2
-- https://github.com/danielkrupinski/cs2-anticheat
+- https://github.com/gmh5225/cs2-anticheat
 
 > Game:MapleStory
 - https://forum.ragezone.com/threads/getting-packet-structures-opcodes-using-ida.792436/ [Packet]
 - https://github.com/Bratah123/SpiritIDAPlugin [IDA-Plugin]
-- https://github.com/icelemon1314/mapleLemon [Private Server-CMS-027]
-- https://github.com/ellermister/MapleStory [Private Server-CMS-079]
-- https://github.com/mrzhqiang/ms079 [Private Server-CMS-079]
-- https://github.com/mimilewis/MapleStory143 [Private Server-CMS-143]
-- https://github.com/unsafeblackcat/MapleStoryEx [Private Server-CMS-079]
+- https://github.com/gmh5225/mapleLemon [Private Server-CMS-027]
+- https://github.com/gmh5225/MapleStory [Private Server-CMS-079]
+- https://github.com/gmh5225/ms079 [Private Server-CMS-079]
+- https://github.com/gmh5225/MapleStory143 [Private Server-CMS-143]
+- https://github.com/gmh5225/MapleStoryEx [Private Server-CMS-079]
 - https://github.com/gmh5225/maplestory-v83MaplestoryCPP [Private Server-GMS-083 C++]
 - https://github.com/Fraysa/Destiny [Private Server-GMS-083 C#]
 - https://github.com/Bratah123/ElectronMS [Private Server-KMS-316]
 - https://github.com/gmh5225/MapleStory-v113-Server-Eimulator [Private Server-TMS-113]
-- https://github.com/izarooni/MapleEzorsia [v83 edits for creating a custom resolution client]
+- https://github.com/gmh5225/MapleEzorsia [v83 edits for creating a custom resolution client]
 - https://github.com/Bratah123/BattleAnalysis176 [Battle Analysis]
-- https://github.com/johnsonjason/MapleStoryBuildFramework [AntiCheat]
-- https://github.com/Noosh404/Maplestory-V179-Cheat-Engine [V179 CT]
+- https://github.com/gmh5225/MapleStoryBuildFramework [AntiCheat]
+- https://github.com/gmh5225/Maplestory-V179-Cheat-Engine [V179 CT]
 - https://github.com/gmh5225/MapleStory-HeavenClient [Heaven Client]
 - https://github.com/gmh5225/TWMS-Hacking-Data [TMS CT]
 - https://github.com/Inndy/MSDoggy [TMS Old Hack]
@@ -2647,7 +2647,7 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 - https://github.com/gmh5225/R3nzSkinTFT [Skin]
 - https://github.com/gmh5225/LeagueSkinChanger [Skin]
 - https://github.com/gmh5225/hh-lol-prophet
-- https://github.com/Nuxar1/DecryptionDumper [Dump]
+- https://github.com/gmh5225/DecryptionDumper [Dump]
 - https://github.com/gmh5225/LeagueDumper [Dump]
 - https://github.com/gmh5225/League-Unpacker [Dump]
 - https://github.com/gmh5225/lol-offset-dumper [Dump]
@@ -2667,74 +2667,74 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 > Game:NARAKA
 - https://www.unknowncheats.me/forum/other-fps-games/490052-naraka-bladepoint-reversal-structs-offsets.html
 - https://github.com/gmh5225/DummyDlls_NARAKA_1_9_21 [Dump]
-- https://github.com/Rythorndoran/Naraka-Hack
+- https://github.com/gmh5225/Naraka-Hack
 
 > Game:Thetan
-- https://github.com/xkp95175333/Thetan_ArenaSDK
+- https://github.com/gmh5225/Thetan_ArenaSDK
 
 > Game:Dota2
-- https://github.com/ikhsanprasetyo/dota2dumped [Offset dumper]
-- https://github.com/skrixx68/Dota2-Overlay-2.0
+- https://github.com/gmh5225/dota2dumped [Offset dumper]
+- https://github.com/gmh5225/Dota2-Overlay-2.0
 - https://github.com/gmh5225/Dota2-Overlay-OffsetUpdater
 - https://github.com/gmh5225/dota-cheat
-- https://github.com/LWSS/McDota [linux]
+- https://github.com/gmh5225/McDota [linux]
 - https://github.com/gmh5225/Dota2Cheat
 
 > Game:WOW
-- https://github.com/helloobaby/wow-IAT-fix
+- https://github.com/gmh5225/wow-IAT-fix
 - https://github.com/gmh5225/dumpwow
-- https://github.com/adde88/WoWDumpFix
-- https://github.com/xakepru/x14.08-coverstory-blizzard
-- https://github.com/fail46/OHack [An open-source hack for World of Warcraft]
-- https://github.com/adde88/SkyEngine [Wow Lua Unlocker]
+- https://github.com/gmh5225/WoWDumpFix
+- https://github.com/gmh5225/x14.08-coverstory-blizzard
+- https://github.com/gmh5225/OHack [An open-source hack for World of Warcraft]
+- https://github.com/gmh5225/SkyEngine [Wow Lua Unlocker]
 - https://github.com/gmh5225/WOW-WowAutoFishing [Auto Fishing]
 
 > Game:Warcraft III
-- https://github.com/stijnherfst/HiveWE [editor]
+- https://github.com/gmh5225/HiveWE [editor]
 
 > Game:Half-Life 2
-- https://github.com/codereversing/hl2aimbot
-- https://github.com/codereversing/hl2esp
+- https://github.com/gmh5225/hl2aimbot
+- https://github.com/gmh5225/hl2esp
 
 > Game:CS1.6
-- https://github.com/k4ne1337/hpp-hack
+- https://github.com/gmh5225/hpp-hack
 - https://github.com/gmh5225/CSHackCreator-2-Demo
-- https://github.com/oxiKKK/oxware
-- https://github.com/execnone/simple-cs-16-multihack
-- https://github.com/bit-paper/sakura
-- https://github.com/eversinc33/1.6_C2 [C2]
-- https://github.com/3a1/Zodiak [CS 1.6 Fastcup Full Kernel Driver Cheat]
-- https://github.com/3a1/Evelion [External]
+- https://github.com/gmh5225/oxware
+- https://github.com/gmh5225/simple-cs-16-multihack
+- https://github.com/gmh5225/sakura
+- https://github.com/gmh5225/1.6_C2 [C2]
+- https://github.com/gmh5225/Zodiak [CS 1.6 Fastcup Full Kernel Driver Cheat]
+- https://github.com/gmh5225/Evelion [External]
 
 > Game:CSS
-- https://github.com/yoshisaac/CounterStrikeSource-Linux-Trainer [Linux External]
+- https://github.com/gmh5225/CounterStrikeSource-Linux-Trainer [Linux External]
 - https://github.com/M3351AN/UkiaRPM [External]
 
 > Game:CSGO
 - https://github.com/csgohacks/master-guide [Guide]
-- https://github.com/Akandesh/blazedumper [Offset]
-- https://github.com/frk1/hazedumper [Offset]
+- https://github.com/gmh5225/blazedumper [Offset]
+- https://github.com/gmh5225/hazedumper [Offset]
 - https://github.com/gmh5225/csgo-offsets [Offset]
-- https://github.com/ofDataa/offsets [Offset]
-- https://github.com/Akandesh/csgo_auto_dumper [Auto Dump]
-- https://github.com/dretax/GarHal_CSGO
-- https://github.com/danielkrupinski/Osiris
-- https://github.com/danielkrupinski/GOESP [Cross-platform]
-- https://github.com/danielkrupinski/Anubis
-- https://github.com/s3pt3mb3r/Dainsleif
+- https://github.com/gmh5225/offsets [Offset]
+- https://github.com/gmh5225/csgo_auto_dumper [Auto Dump]
+- https://github.com/gmh5225/GarHal_CSGO
+- https://github.com/gmh5225/Osiris
+- https://github.com/gmh5225/GOESP [Cross-platform]
+- https://github.com/gmh5225/Anubis
+- https://github.com/gmh5225/Dainsleif
 - https://github.com/gmh5225/csgo_sdk
 - https://github.com/gmh5225/csgo-sdk [SDK for Rust]
-- https://github.com/ekknod/csf_w [Win SDK]
-- https://github.com/ekknod/csf [Linux SDK]
-- https://github.com/Speedi13/ROP-COMPILER
-- https://github.com/AimTuxOfficial/AimTux [Linux]
-- https://github.com/seksea/gamesneeze [Linux]
-- https://github.com/otvv/csgo-linux-cheat-sdk [Linux]
-- https://github.com/EternityX/DEADCELL-CSGO
-- https://github.com/nbqofficial/kernel-csgo
-- https://github.com/HeathHowren/CSGO-Cheats
-- https://github.com/Kruziikrel1/CSGO-FindMDL [Model Changer]
-- https://github.com/ekknod/nv_v2 [Sound ESP]
+- https://github.com/gmh5225/csf_w [Win SDK]
+- https://github.com/gmh5225/csf [Linux SDK]
+- https://github.com/gmh5225/ROP-COMPILER
+- https://github.com/gmh5225/AimTux [Linux]
+- https://github.com/gmh5225/gamesneeze [Linux]
+- https://github.com/gmh5225/csgo-linux-cheat-sdk [Linux]
+- https://github.com/gmh5225/DEADCELL-CSGO
+- https://github.com/gmh5225/kernel-csgo
+- https://github.com/gmh5225/CSGO-Cheats
+- https://github.com/gmh5225/CSGO-FindMDL [Model Changer]
+- https://github.com/gmh5225/nv_v2 [Sound ESP]
 - https://github.com/gmh5225/Improved-CSGO_Simple
 - https://github.com/0TheSpy/SpyExternal1337hax [External]
 - https://github.com/0TheSpy/Seaside [Internal]
@@ -2742,152 +2742,152 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 - https://github.com/nbqofficial/norsefire [Driver + Mouse Emulation]
 - https://github.com/boltgolt/boltobserv [Radar]
 - https://github.com/gmh5225/csgo_external_ahk_hack [External]
-- https://github.com/ch4ncellor/CSGO-P2C-Dumper [Dump]
-- https://github.com/Akatsyk/2k17-club
-- https://github.com/flowxrc/csgo-xenforo-loader
-- https://github.com/ALittlePatate/ezfrags
-- https://github.com/Neaxic/CSGO-MAIN-INTERNAL
-- https://github.com/W1lliam1337/digital-sdk
-- https://github.com/sneakyevilSK/CSGO_BacktrackPatch [Backtrack Patch]
-- https://github.com/NullTerminatorr/NullBase [External]
+- https://github.com/gmh5225/CSGO-P2C-Dumper [Dump]
+- https://github.com/gmh5225/2k17-club
+- https://github.com/gmh5225/csgo-xenforo-loader
+- https://github.com/gmh5225/ezfrags
+- https://github.com/gmh5225/CSGO-MAIN-INTERNAL
+- https://github.com/gmh5225/digital-sdk
+- https://github.com/gmh5225/CSGO_BacktrackPatch [Backtrack Patch]
+- https://github.com/gmh5225/NullBase [External]
 - https://github.com/krxdev-kaan/AqHax-CSGO
-- https://github.com/slack69/csgo-dma-overlay [DMA]
-- https://github.com/rrpvm/csgo-external-cheat
+- https://github.com/gmh5225/csgo-dma-overlay [DMA]
+- https://github.com/gmh5225/csgo-external-cheat
 - https://github.com/gmh5225/Pine [Neural Network]
-- https://github.com/Bartis1313/csgo 
-- https://github.com/NullHooks/NullHooks [Internal]
-- https://github.com/Skarbo/CSGOCrosshair [Crosshair Generator]
-- https://github.com/ekknod/G37OBS [obs-studio plugin for csgo]
-- https://github.com/Sentient111/Csgo-Full-kernel [Running from kernelmode]
-- https://github.com/razixNew/CompiledProtection [Cheat Compiler]
-- https://github.com/ekknod/EC
-- https://github.com/soyware/heck_csgo_external [External]
-- https://github.com/martinjanas/Sensum [Internal]
-- https://github.com/cazzwastaken/kakhack [Internal]
-- https://github.com/Spelchure/CSGO-Internal [Internal]
-- https://github.com/binkynz/cstrike-hack
-- https://github.com/R4YVEN/raybot-zero [Kernel-mode]
+- https://github.com/gmh5225/csgo 
+- https://github.com/gmh5225/NullHooks [Internal]
+- https://github.com/gmh5225/CSGOCrosshair [Crosshair Generator]
+- https://github.com/gmh5225/G37OBS [obs-studio plugin for csgo]
+- https://github.com/gmh5225/Csgo-Full-kernel [Running from kernelmode]
+- https://github.com/gmh5225/CompiledProtection [Cheat Compiler]
+- https://github.com/gmh5225/EC
+- https://github.com/gmh5225/heck_csgo_external [External]
+- https://github.com/gmh5225/Sensum [Internal]
+- https://github.com/gmh5225/kakhack [Internal]
+- https://github.com/gmh5225/CSGO-Internal [Internal]
+- https://github.com/gmh5225/cstrike-hack
+- https://github.com/gmh5225/raybot-zero [Kernel-mode]
 - https://github.com/gmh5225/CSGO-Loader [Loader]
 - https://github.com/gmh5225/CSGO-NIXWARE-CSGO [Nixware]
-- https://github.com/designer1337/csgo-cheat-base [Internal]
-- https://github.com/yourmnbbn/tiny-csgo-client [Tiny csgo client for connecting dedicated server]
-- https://github.com/click4dylan/CSGO_AnimationCode_Reversed [CSGO animation code]
-- https://github.com/spirthack/CSGOSimple [Internal]
-- https://github.com/ViddeBoiiii/CSGO-Ormbunke-x86 [Imgui Menu]
+- https://github.com/gmh5225/csgo-cheat-base [Internal]
+- https://github.com/gmh5225/tiny-csgo-client [Tiny csgo client for connecting dedicated server]
+- https://github.com/gmh5225/CSGO_AnimationCode_Reversed [CSGO animation code]
+- https://github.com/gmh5225/CSGOSimple [Internal]
+- https://github.com/gmh5225/CSGO-Ormbunke-x86 [Imgui Menu]
 - https://github.com/gmh5225/legit-csgo-cheat-menu [Menu]
 - https://github.com/gmh5225/autismware [HvH]
-- https://github.com/emilyinure/solace-csgo [Internal]
+- https://github.com/gmh5225/solace-csgo [Internal]
 - https://github.com/gmh5225/csgo-sdk-improved [Internal]
 - https://github.com/gmh5225/cartmanv2 [Internal]
 - https://github.com/gmh5225/CSGO-aw-v5.1.13 [aw-v5.1.13]
-- https://github.com/ricencheese/csgo-bot
-- https://github.com/forceinline/csgo-external-esp [External]
+- https://github.com/gmh5225/csgo-bot
+- https://github.com/gmh5225/csgo-external-esp [External]
 - https://github.com/gmh5225/avhook
-- https://github.com/si1kyyy/csgo_cheat_external [External]
+- https://github.com/gmh5225/csgo_cheat_external [External]
 - https://github.com/gmh5225/nebulite-external [External]
-- https://github.com/lstrsrt/csgo_internal_base [Internal]
+- https://github.com/gmh5225/csgo_internal_base [Internal]
 - https://github.com/gmh5225/Astra [External]
 - https://github.com/gmh5225/CSGO-Alphen
-- https://github.com/Enzo0721/ExternalCheatV3 [External]
-- https://github.com/SteamDatabase/Protobufs/tree/master/csgo [Protobuf]
-- https://github.com/kyojig/csgo_kns [Internal]
-- https://github.com/M3351AN/saphire [Internal]
-- https://github.com/VitorMob/GHInterfacesCSGO [Internal]
+- https://github.com/gmh5225/ExternalCheatV3 [External]
+- https://github.com/gmh5225/Protobufs/tree/master/csgo [Protobuf]
+- https://github.com/gmh5225/csgo_kns [Internal]
+- https://github.com/gmh5225/saphire [Internal]
+- https://github.com/gmh5225/GHInterfacesCSGO [Internal]
 - https://github.com/gmh5225/memcs [External]
-- https://github.com/rabbitfishy/sdk [SDK]
-- https://github.com/bloesway/csgo_sdk [SDK]
-- https://github.com/DeiVid-12/SmKernel-CSGO [Driver]
-- https://github.com/notgoodusename/OsirisAndExtra [Internal]
+- https://github.com/gmh5225/sdk [SDK]
+- https://github.com/gmh5225/csgo_sdk [SDK]
+- https://github.com/gmh5225/SmKernel-CSGO [Driver]
+- https://github.com/gmh5225/OsirisAndExtra [Internal]
 - https://github.com/M3351AN/Echinoidea [External C#]
-- https://github.com/Blaumaus/le_chiffre [External]
+- https://github.com/gmh5225/le_chiffre [External]
 
 > Game:CS2
-- https://github.com/danielkrupinski/Osiris
-- https://github.com/ro0ti/CS2-Offsets [Offset]
-- https://github.com/sezzyaep/CS2-OFFSETS [Offset]
-- https://github.com/Salvatore-Als/cs2-signature-list [Signature]
-- https://github.com/bruhmoment21/cs2-sdk [SDK]
-- https://github.com/Omn1z/Counter-Strike2-SDK [SDK]
+- https://github.com/gmh5225/Osiris
+- https://github.com/gmh5225/CS2-Offsets [Offset]
+- https://github.com/gmh5225/CS2-OFFSETS [Offset]
+- https://github.com/gmh5225/cs2-signature-list [Signature]
+- https://github.com/gmh5225/cs2-sdk [SDK]
+- https://github.com/gmh5225/Counter-Strike2-SDK [SDK]
 - https://github.com/gmh5225/cs2-sdk [SDK]
 - https://github.com/gmh5225/CS2-SDK-Source2Gen [SDK]
-- https://github.com/FrySimpl3/SDK_CS2 [SDK]
+- https://github.com/gmh5225/SDK_CS2 [SDK]
 - https://github.com/gmh5225/cs2_sdk [SDK]
-- https://github.com/NotOfficer/cs2-sdk [SDK]
-- https://github.com/a2x/cs2-dumper [Dump]
-- https://github.com/imnotdatguy/csgo2-cheat
-- https://github.com/papstuc/counterstrike2
-- https://github.com/nezu-cc/BakaWare4
+- https://github.com/gmh5225/cs2-sdk [SDK]
+- https://github.com/gmh5225/cs2-dumper [Dump]
+- https://github.com/gmh5225/csgo2-cheat
+- https://github.com/gmh5225/counterstrike2
+- https://github.com/gmh5225/BakaWare4
 - https://github.com/gmh5225/cs2-fov-changer [FOV changer]
-- https://github.com/clauadv/cs2_webradar [undetected counter strike 2 browser based radar cheat]
-- https://github.com/MoZiHao/CS2_DMA_Radar [DMA Radar]
+- https://github.com/gmh5225/cs2_webradar [undetected counter strike 2 browser based radar cheat]
+- https://github.com/gmh5225/CS2_DMA_Radar [DMA Radar]
 - https://github.com/gmh5225/cs2_webradar [Browser based radar cheat]
-- https://github.com/MoZiHao/CS2_DMA_Extrnal [DMA External]
+- https://github.com/gmh5225/CS2_DMA_Extrnal [DMA External]
 - https://github.com/gmh5225/vscript_lua51 [VScript]
 - https://github.com/gmh5225/cs2_things [VScript]
-- https://github.com/IMXNOOBX/cs2-external-esp [External]
-- https://github.com/UnnamedZ03/CS2-external-base [External]
-- https://github.com/Tokyodidit/cs2External [External]
-- https://github.com/TKazer/CS2_External [External]
-- https://github.com/Valthrun/Valthrun [External]
-- https://github.com/Zckyy/CS2-External [External]
-- https://github.com/sFIsAnExpert/CS2-External-Cheat [External]
+- https://github.com/gmh5225/cs2-external-esp [External]
+- https://github.com/gmh5225/CS2-external-base [External]
+- https://github.com/gmh5225/cs2External [External]
+- https://github.com/gmh5225/CS2_External [External]
+- https://github.com/gmh5225/Valthrun [External]
+- https://github.com/gmh5225/CS2-External [External]
+- https://github.com/gmh5225/CS2-External-Cheat [External]
 - https://github.com/gmh5225/tim_apple [External]
-- https://github.com/kristofhracza/tim_apple [External]
+- https://github.com/gmh5225/tim_apple [External]
 - https://github.com/gmh5225/CS2-Cheat [External]
-- https://github.com/Half-People/HPCS2 [External]
+- https://github.com/gmh5225/HPCS2 [External]
 - https://github.com/gmh5225/CS2-External-1 [External]
-- https://github.com/M3351AN/AimStar [External]
-- https://github.com/Fr0go1/Aeonix-Cs2 [External]
-- https://github.com/xvorost/CS-2-Glow [External]
-- https://github.com/yinleiCoder/cs2-cheat-cpp [External]
-- https://github.com/ByteCorum/DragonBurn [External]
+- https://github.com/gmh5225/AimStar [External]
+- https://github.com/gmh5225/Aeonix-Cs2 [External]
+- https://github.com/gmh5225/CS-2-Glow [External]
+- https://github.com/gmh5225/cs2-cheat-cpp [External]
+- https://github.com/gmh5225/DragonBurn [External]
 - https://github.com/yoshisaac/CounterStrike2-Linux-Cheat [Linux External]
-- https://github.com/KisSsArt/CS2-Cheat-Base [Internal]
-- https://github.com/redbg/CS2-Internal [Internal]
 - https://github.com/gmh5225/CS2-Cheat-Base [Internal]
-- https://github.com/chaycee/CS2Internal [Internal]
+- https://github.com/gmh5225/CS2-Internal [Internal]
+- https://github.com/gmh5225/CS2-Cheat-Base [Internal]
+- https://github.com/gmh5225/CS2Internal [Internal]
 - https://github.com/gmh5225/csgo2-cheat [Internal]
 - https://github.com/gmh5225/Aurora [Internal]
-- https://github.com/clouddss/cs2-internal-sdk [Internal]
-- https://github.com/W1lliam1337/cstrike2-hack [Rust-based internal]
-- https://github.com/eden13378/CS2-DMA-Cheat [DMA]
+- https://github.com/gmh5225/cs2-internal-sdk [Internal]
+- https://github.com/gmh5225/cstrike2-hack [Rust-based internal]
+- https://github.com/gmh5225/CS2-DMA-Cheat [DMA]
 - https://github.com/gmh5225/CS2-Dma-Radar [DMA]
 - https://github.com/gmh5225/cs2_kvm_dma [KVM] 
-- https://github.com/M3351AN/Samidare [External Ring3/Ring0]
-- https://github.com/Vekor64/PythonCS2 [Python External]
-- https://github.com/maecry/asphyxia-cs2 [Internal]
+- https://github.com/gmh5225/Samidare [External Ring3/Ring0]
+- https://github.com/gmh5225/PythonCS2 [Python External]
+- https://github.com/gmh5225/asphyxia-cs2 [Internal]
 - https://github.com/gmh5225/YOLOv8-Overlay-CS2 [YOLOv8 in CS2]
   
 > Game:Assault Cube
 - https://github.com/gmh5225/external-esp-hack-assaultcube [GDI overlay]
 - https://github.com/gmh5225/AssaultCubeCheat
-- https://github.com/201580ag/AssaultCube_Cheat
+- https://github.com/gmh5225/AssaultCube_Cheat
 - https://github.com/kotae4/lab-esp-and-aimbot [Walkthrough of an ESP and aimbot cheat from scratch]
 
 > Game:Valorant
-- https://github.com/apekros/valorant_offsets [Offset]
-- https://github.com/10HEAD/ValorantOffsets [Offset]
-- https://github.com/ofDataa/offsets [Offset]
+- https://github.com/gmh5225/valorant_offsets [Offset]
+- https://github.com/gmh5225/ValorantOffsets [Offset]
+- https://github.com/gmh5225/offsets [Offset]
 - https://github.com/gmh5225/valorant-externals [Offset]
-- https://github.com/GLX-ILLUSION/valorant-offsets-autoupdater [Offset]
+- https://github.com/gmh5225/valorant-offsets-autoupdater [Offset]
 - https://github.com/gmh5225/ValorantOffsets-China-version [Offset]
-- https://github.com/hadevn/Valorant-SDK-2024 [SDK]
+- https://github.com/gmh5225/Valorant-SDK-2024 [SDK]
 - https://github.com/gmh5225/valorant-gui-imgui-remake [GUI]
 - https://github.com/gmh5225/valorant-internal
 - https://github.com/gmh5225/Zenti-Valorant-Cheat-Hack-Internal-Spoofer-Driver-Injector-Protector-Auth
 - https://github.com/gmh5225/Valorant-Hack-Esp-Aimbot-Driver-Injector-With-Spoofer-Temporary
-- https://github.com/xehn1337/valorant-dumper [Dump]
+- https://github.com/gmh5225/valorant-dumper [Dump]
 - https://github.com/gmh5225/Valorant-Dumper-Tool [Dump]
-- https://github.com/lil-skies/val-exception-handler [ZwRaiseException Dump]
+- https://github.com/gmh5225/val-exception-handler [ZwRaiseException Dump]
 - https://github.com/gmh5225/Valorant-Esp-Aimbot-Hack
-- https://github.com/frankelitoc/UE4-c- [External]
-- https://github.com/AryuInka/Valorant-Cheat-External [External]
+- https://github.com/gmh5225/UE4-c- [External]
+- https://github.com/gmh5225/Valorant-Cheat-External [External]
 - https://github.com/gmh5225/Valorant-Cheat
-- [Iterate And Decrypt FNamePool->Entries On Valorant](https://github.com/percpopper/VALORANT-FNamePool)
+- [Iterate And Decrypt FNamePool->Entries On Valorant](https://github.com/gmh5225/VALORANT-FNamePool)
 - https://github.com/gmh5225/Valorant-External-1
 - https://github.com/gmh5225/UCMiraka-ValorantExternal [NtUserGetPointerProprietaryId]
 - https://github.com/gmh5225/Valorant-CheatExternal
-- https://github.com/weedeej/ValorantCC [Crosshair Setting]
+- https://github.com/gmh5225/ValorantCC [Crosshair Setting]
 - https://github.com/gmh5225/Internal-Valorant-Cheat
 - https://github.com/gmh5225/VALORANT-HACK-ESP-AIMBOT-SKINCHANGER
 - https://github.com/gmh5225/valorant-esp-hack-with-driver
@@ -2899,24 +2899,24 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 - https://github.com/gmh5225/Valorant-External-Source [External]
 - https://github.com/gmh5225/Valorant-cheat-internal [Internal]
 - https://github.com/gmh5225/Valorant-Esp-Aimbot-Cheat-Hack [External]
-- https://github.com/94q/Valorant-Internal [Internal]
+- https://github.com/gmh5225/Valorant-Internal [Internal]
 - https://github.com/gmh5225/Valorant-External-P2C-Leaked [External]
-- https://github.com/kali11211/valorant-internal-cheat [Internal]
+- https://github.com/gmh5225/valorant-internal-cheat [Internal]
 - https://github.com/gmh5225/valo-driver [External]
-- https://github.com/kali11211/valorant-internal-cheat [Internal]
+- https://github.com/gmh5225/valorant-internal-cheat [Internal]
 - https://github.com/gmh5225/ValorantCheatExternal [External]
 
 > Game:VEILED EXPERTS
-- https://github.com/EBalloon/VEILED-EXPERTS-SDK
-- https://github.com/LagradOst/ProjectD-Win64-Shipping
-- https://github.com/Da3kL3o/VeiledExpertsSDK
-- https://github.com/percpopper/VX-It [Decrypt]
+- https://github.com/gmh5225/VEILED-EXPERTS-SDK
+- https://github.com/gmh5225/ProjectD-Win64-Shipping
+- https://github.com/gmh5225/VeiledExpertsSDK
+- https://github.com/gmh5225/VX-It [Decrypt]
 
 > Game:COD1
-- https://github.com/attilathedud/CoD_Hacks
+- https://github.com/gmh5225/CoD_Hacks
 
 > Game:COD7
-- https://github.com/nice-sprite/COD7-Tools
+- https://github.com/gmh5225/COD7-Tools
 
 > Game:COD Black Ops 2
 - https://github.com/gmh5225/t7-linker [100% accurate Black Ops 2 FastFile linker]
@@ -2927,72 +2927,72 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 > Game:COD Warzone
 - https://github.com/YMY1666527646/Call-of-Duty-Warzone-MW-HACK-ESP-AIMBOT
 - https://github.com/serjam/mwclap
-- https://github.com/NMan1/external-warzone-cheat
-- https://github.com/NMan1/warzone-internal
+- https://github.com/gmh5225/external-warzone-cheat
+- https://github.com/gmh5225/warzone-internal
 - https://github.com/gmh5225/Call-Of-Duty-Warzone-Hack-Esp-Slient-Aimbot-Internal-Unlock-ALL
 - https://github.com/gmh5225/Call-Of-Duty-Vanguard-Hack-Esp-AImbot-Unlock-All
 - https://github.com/gmh5225/Warzone-internal-Cheat
-- https://github.com/SpiroHappy/Warzone-MW-Internal
+- https://github.com/gmh5225/Warzone-MW-Internal
 - https://github.com/gmh5225/-Modern-Warfare-Warzone-Cheat
 
 > Game:CODM
-- https://github.com/Poko-Apps/CodMDumper [il2cpp dump]
+- https://github.com/gmh5225/CodMDumper [il2cpp dump]
 - https://github.com/gmh5225/CODM-ESP-Aimbot-Mod-Menu [ESP]
 
 > Game:Battlefield 1
 - https://github.com/gmh5225/BF1-ESP-AND-AIMBOT
-- https://github.com/younasiqw/BattleField-1-Internal
+- https://github.com/gmh5225/BattleField-1-Internal
 
 > Game:Battlefield 4
 - https://github.com/gmh5225/BF4-Internal-overlay
 
 > Game:Battlefield 2042
-- https://github.com/Skengdo/battlefield-2042-internal-sdk
+- https://github.com/gmh5225/battlefield-2042-internal-sdk
 
 > Game:Apex Legends
-- https://github.com/dhanax26/Apex-Legends-Offset-Dumper [Offset]
-- https://github.com/ofDataa/offsets [Offset]
-- https://github.com/dword64/Apex-Legends-SDK-Remaster
-- https://github.com/hooksteroid/ApexD3D_External
-- https://github.com/NMan1/apex-legends-cheat
+- https://github.com/gmh5225/Apex-Legends-Offset-Dumper [Offset]
+- https://github.com/gmh5225/offsets [Offset]
+- https://github.com/gmh5225/Apex-Legends-SDK-Remaster
+- https://github.com/gmh5225/ApexD3D_External
+- https://github.com/gmh5225/apex-legends-cheat
 - https://github.com/gmh5225/Apex-SIMPLE-AIMBOT-GLOW-APEX
-- https://github.com/TheCruZ/Direct-EFI-Apex-Cheat
-- https://github.com/Astronaut00/apex-external
+- https://github.com/gmh5225/Direct-EFI-Apex-Cheat
+- https://github.com/gmh5225/apex-external
 - https://github.com/YMY1666527646/Phoenix-Valorant-Cheat
 - https://github.com/CasualX/apexbot
 - https://github.com/TheCruZ/Apex_Legends_Driver_Cheat
-- https://github.com/Keyzp1337/Fortnite
-- https://github.com/Zurek0x/NuremX [AI]
-- https://github.com/hadevn/apex_full_cheat
+- https://github.com/gmh5225/Fortnite
+- https://github.com/gmh5225/NuremX [AI]
+- https://github.com/gmh5225/apex_full_cheat
 - https://github.com/gmh5225/Apex-ApexCheeseTest
-- https://github.com/RavenOfTime/Apex-Legends-Esp
+- https://github.com/gmh5225/Apex-Legends-Esp
 - https://github.com/gmh5225/Apex-ApexCheat
 - https://github.com/gmh5225/Apex_ESP_Old_Project
-- https://github.com/cheatingwitdacode/apex-cheating
+- https://github.com/gmh5225/apex-cheating
 - https://github.com/LWSS/Ape-ex-Abominations [QEMU]
-- https://github.com/Y33Tcoder/EzApexDMAAimbot [KVM]
+- https://github.com/gmh5225/EzApexDMAAimbot [KVM]
 - https://github.com/gmh5225/Apex-CHEAT-FIXED
 - https://github.com/gmh5225/apex_legends_sdk
-- https://github.com/ekknod/apex_linux [linux]
-- https://github.com/XRadius/project-tanya [linux]
+- https://github.com/gmh5225/apex_linux [linux]
+- https://github.com/gmh5225/project-tanya [linux]
 - https://github.com/gmh5225/ayypex [linux]
-- https://github.com/KaylinOwO/Project-Branthium
+- https://github.com/gmh5225/Project-Branthium
 - https://github.com/gmh5225/Apex-Legends-External-Esp-Aimbot-Skinchanger
-- https://github.com/Neurosisccc/Apex-ItemGlow [Item glow]
-- https://github.com/BaconToaster/UC-Apex-Remastered
-- https://github.com/NekoRem/apex-external [External]
-- https://github.com/M1fisto/nullptr-apex-external [External]
-- https://github.com/3nolan5/R5Apex-UserMode [External]
-- https://github.com/NaiJii/Apex-Mizu-Base [Internal]
-- https://github.com/boowampp/ApexDmaCheatUpdated [DMA]
+- https://github.com/gmh5225/Apex-ItemGlow [Item glow]
+- https://github.com/gmh5225/UC-Apex-Remastered
+- https://github.com/gmh5225/apex-external [External]
+- https://github.com/gmh5225/nullptr-apex-external [External]
+- https://github.com/gmh5225/R5Apex-UserMode [External]
+- https://github.com/gmh5225/Apex-Mizu-Base [Internal]
+- https://github.com/gmh5225/ApexDmaCheatUpdated [DMA]
 
 > Game:Fortnite
-- https://github.com/kem0x/FortKit [Dump]
-- https://github.com/ofDataa/offsets [Offset]
-- https://github.com/Trydos/fortnite-offsets [Offset]
-- https://github.com/masterpastaa/AutoOffsets [Offset]
-- https://github.com/Zetolac/FortniteOffsetsAndSigs [Offset]
-- https://github.com/Android1337/Fortnite-Offsets [Offset]
+- https://github.com/gmh5225/FortKit [Dump]
+- https://github.com/gmh5225/offsets [Offset]
+- https://github.com/gmh5225/fortnite-offsets [Offset]
+- https://github.com/gmh5225/AutoOffsets [Offset]
+- https://github.com/gmh5225/FortniteOffsetsAndSigs [Offset]
+- https://github.com/gmh5225/Fortnite-Offsets [Offset]
 - https://github.com/gmh5225/FortniteSigsUpdatedEveryUpdate [Offset]
 - https://github.com/gmh5225/Fortnite-SigsUpdatedEveryUpdate [Offset]
 - https://github.com/gmh5225/fortnite-W2S-offset-Fortnite [Offset]
@@ -3000,60 +3000,60 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 - https://github.com/gmh5225/Fortnite-Offset-dumper [Offset & Dump]
 - https://github.com/gmh5225/fortnite-virtual-offsets [Virtual Table Offsets]
 - https://github.com/gmh5225/fortnite-sigs [Signature]
-- https://github.com/F0NDO/fortnite-sigs [Signature]
+- https://github.com/gmh5225/fortnite-sigs [Signature]
 - https://github.com/gmh5225/fortnite-exploits [Exploits]
-- https://github.com/ReallReaper/Fortnite-Offsets-Sigs-and-more [Offset]
-- https://github.com/Makk5/FortConsole
+- https://github.com/gmh5225/Fortnite-Offsets-Sigs-and-more [Offset]
+- https://github.com/gmh5225/FortConsole
 - https://github.com/gmh5225/Fortnite-Leak5
-- https://github.com/Zetolac/FortniteExternalW2S
+- https://github.com/gmh5225/FortniteExternalW2S
 - https://github.com/gmh5225/Fortnite-Internal-Cheat-Fixed-and-Updated
 - https://github.com/gmh5225/Fortnite-EFI-External [EFI]
 - https://github.com/gmh5225/Fortnite-External-Cheat-WinSense-Leak
-- https://github.com/jooola00/fortnite-cheat-source-internal
-- https://github.com/YMY1666527646/Fortnite-Hack-Esp-Exploits-With-Menu
+- https://github.com/gmh5225/fortnite-cheat-source-internal
+- https://github.com/gmh5225/Fortnite-Hack-Esp-Exploits-With-Menu
 - https://github.com/YMY1666527646/nigusFN
 - https://github.com/Sheeedsh78/Cheto-Fortnite-Source-External-EAC-BE-undetected
 - https://github.com/CheaterRehab/GodFather-Fortnite-Cheat-Cracked
-- https://github.com/Keyzp1337/Fortnite
+- https://github.com/gmh5225/Fortnite
 - https://github.com/vk-nom/Basic-Fortnite-Cheat-Source-Internal
 - https://github.com/gmh5225/Fortnite-UD-External
 - https://github.com/gmh5225/Fortnite-Esp-Aimbot-Exploits-Hwid-Spoofer-Cleaner-Hack-Cheat
-- https://github.com/Waihbe/Fortnite-Cheat-LEAK
-- https://github.com/zinx-YT/Fortnite-Fltokens-and-offsets
+- https://github.com/gmh5225/Fortnite-Cheat-LEAK
+- https://github.com/gmh5225/Fortnite-Fltokens-and-offsets
 - https://github.com/gmh5225/VOLTO-EXTERNAL-SPOWAR-UD-EAC-BE-FORTNITE-EXTERNAL-CHEAT
 - https://github.com/gmh5225/Serenity.gg-FN-and-Loader
-- https://github.com/Waihbe/Fortnite-External-Cheat-Leak
-- https://github.com/AlfredIU/Spoofer [HWID]
-- https://github.com/pastor-ritz/ritz-amazing-fortnite-internal
+- https://github.com/gmh5225/Fortnite-External-Cheat-Leak
+- https://github.com/gmh5225/Spoofer [HWID]
+- https://github.com/gmh5225/ritz-amazing-fortnite-internal
 - https://github.com/gmh5225/Fortnite-Masterpasta-ihack-Source-Leak
 - https://github.com/gmh5225/Fortnite-Evo.cc-Source-External-Cheat
-- https://github.com/KeyzpOnTheFluxxx/Fortnite-External
+- https://github.com/gmh5225/Fortnite-External
 - https://github.com/gmh5225/Apple-Lite-Fortnite-Cheat
 - https://github.com/gmh5225/Fortnite-External-Cheat-Source-Code
-- https://github.com/0dayatday0/BattleFN-cheat-analysis
+- https://github.com/gmh5225/BattleFN-cheat-analysis
 - https://github.com/gmh5225/fortnite-internal-updated-ritz [Internal]
-- https://github.com/JeanToBinks/Fortnite-Cheato-UD-EAC-BE
+- https://github.com/gmh5225/Fortnite-Cheato-UD-EAC-BE
 - https://github.com/gmh5225/BE-Forcer-Fortnite [BE forcer for fortnite]
 - https://github.com/gmh5225/Fortnite-External [External]
-- https://github.com/percpopper/Fortnite-CameraCachePOV
-- https://github.com/percpopper/Fortnite-FNameEntry
-- https://github.com/ritz-1337/fortnite-external-evo.gj [External]
-- https://github.com/simply-codes/Fortnite-External-P2C [External]
-- https://github.com/Zetolac/FortniteExternalExploits [External Exploits]
-- https://github.com/xetzzy/Fortnite-External-Source [External]
+- https://github.com/gmh5225/Fortnite-CameraCachePOV
+- https://github.com/gmh5225/Fortnite-FNameEntry
+- https://github.com/gmh5225/fortnite-external-evo.gj [External]
+- https://github.com/gmh5225/Fortnite-External-P2C [External]
+- https://github.com/gmh5225/FortniteExternalExploits [External Exploits]
+- https://github.com/gmh5225/Fortnite-External-Source [External]
 - https://github.com/gmh5225/fortnite-triadz [External]
 - https://github.com/gmh5225/Fortnite-External-5 [External]
-- https://github.com/DontCry361x/ritz-amazing-fortnite-internal-updated [internal]
-- https://github.com/NurdAlert/flirtnite [External]
+- https://github.com/gmh5225/ritz-amazing-fortnite-internal-updated [internal]
+- https://github.com/gmh5225/flirtnite [External]
 - https://github.com/gmh5225/Fortnite-3.5 [Internal]
 - https://github.com/gmh5225/ZeroGui-Fortnite-Internal [Internal]
 - https://github.com/gmh5225/Fortnite-VoyagerTF [Voyager]
 - https://github.com/gmh5225/Fortnite-External-4 [External]
-- https://github.com/lauralex/fn-dma-cheat [DMA]
+- https://github.com/gmh5225/fn-dma-cheat [DMA]
 
 > Game:Bloodhunt
 - https://github.com/ZZZ-Monster/bloodhunt_External
-- https://github.com/PhysX1337/BloodHunt-v1.1
+- https://github.com/gmh5225/BloodHunt-v1.1
 - https://github.com/gmh5225/blood-hunt
 
 > Game:Super People
@@ -3062,17 +3062,17 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 - https://github.com/gmh5225/superpeople-client
 
 > Game:Splitgate
-- https://github.com/percpopper/Splitgate-Internal
+- https://github.com/gmh5225/Splitgate-Internal
 
 > Game:PUBG
 - https://github.com/gmh5225/pubg-dumper [Dump]
 - https://github.com/gmh5225/pubg_dump_offset [Offset]
 - https://github.com/gmh5225/pubg-external-cheat
-- https://github.com/ajkhoury/pubg_internal
-- https://github.com/iCollin/pubg-internal
-- https://github.com/K-cazb/pubg-public
+- https://github.com/gmh5225/pubg_internal
+- https://github.com/gmh5225/pubg-internal
+- https://github.com/gmh5225/pubg-public
 - https://github.com/gmh5225/PlayerUnknown-s-Battlegrounds-Pubg-Steam-Hack-Esp-Aimbot
-- https://github.com/dot1991/lilypublic
+- https://github.com/gmh5225/lilypublic
 - https://github.com/gmh5225/PUBG_Internal
 - https://github.com/gmh5225/PUBG-DX
 - https://github.com/gmh5225/PUBGSTAR
@@ -3082,15 +3082,15 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 
 > Game:PUBGM
 - https://github.com/gmh5225/pubgm_sdk_and_offsets [Offset]
-- https://github.com/atulkunal999/pubg_mobile_memory_hacking
+- https://github.com/gmh5225/pubg_mobile_memory_hacking
 - https://github.com/Mood-Coding/pubgm_shitty_source
 - https://github.com/gmh5225/PUBGM-PUBGPatcher
 - https://github.com/gmh5225/PUBGM1.6-DeadGame
-- https://github.com/mut1234/BYPASS-PUBG-MOBILE-IMGUI
+- https://github.com/gmh5225/BYPASS-PUBG-MOBILE-IMGUI
 - https://github.com/gmh5225/LastIslandOfSurvival-iOSCheat-Source
-- https://github.com/halloweeks/pubg-mobile-pak-extract [pak extracting tool]
+- https://github.com/gmh5225/pubg-mobile-pak-extract [pak extracting tool]
 - https://github.com/gmh5225/pubg_mobile_memory_hacking_examples
-- https://github.com/Super-Cssdiv/ChinaPubg
+- https://github.com/gmh5225/ChinaPubg
 - https://github.com/gmh5225/pubg
 
 > Game:Sausage Man
@@ -3100,62 +3100,62 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 - https://github.com/gmh5225/the-finals-interior-cheat
 
 > Game:EFT
-- https://github.com/patrickcjk/TOG [Offsets Generator]
+- https://github.com/gmh5225/TOG [Offsets Generator]
 - https://github.com/fcancelog/EftStreamedCheat
 - https://github.com/Nou4r/pKernelInterface-EFT
 - https://github.com/sailro/EscapeFromTarkov-Trainer
 - https://github.com/gmh5225/tiny_eft
 - https://github.com/gmh5225/Nathans-Tarkov-Radar-Public [Vmread + Radar]
-- https://github.com/frankie-11/eft-external
+- https://github.com/gmh5225/eft-external
 - https://github.com/Splitx12/eft
 - https://github.com/gmh5225/eft-internal
 - https://github.com/gmh5225/EFT-Veil-EFT
 - https://github.com/gmh5225/Escape-from-TuxKov [QEMU]
 - https://github.com/gmh5225/Comm-ImMiraclela
-- https://github.com/krispybyte/Simple-EFT-Base
-- https://github.com/bytemyass/EFTLeecher [DMA]
+- https://github.com/gmh5225/Simple-EFT-Base
+- https://github.com/gmh5225/EFTLeecher [DMA]
 - https://github.com/gmh5225/eft-dma-radar-1 [DMA Radar]
 - https://github.com/gmh5225/EFT-MonoEFT
-- https://github.com/ZhaoKunqi/simple-eft-superman-training-bot
+- https://github.com/gmh5225/simple-eft-superman-training-bot
 - https://github.com/gmh5225/EFT-NewTarkovCheatProject
 
 > Game:Arena Breakout Infinite
-- https://github.com/cra0/UE426_ABInfinite-Win64-Shipping [SDK]
-- https://github.com/Ke4ton/hardware_bypass [GPU check bypass]
+- https://github.com/gmh5225/UE426_ABInfinite-Win64-Shipping [SDK]
+- https://github.com/gmh5225/hardware_bypass [GPU check bypass]
 
 > Game:R6
-- https://github.com/NMan1/Rainbow-Six-Cheat
-- https://github.com/NMan1/OverflowR6V2
-- https://github.com/NMan1/Internal-Rainbow-Six-Cheat-V3
-- https://github.com/beans42/epic-r6-v9
+- https://github.com/gmh5225/Rainbow-Six-Cheat
+- https://github.com/gmh5225/OverflowR6V2
+- https://github.com/gmh5225/Internal-Rainbow-Six-Cheat-V3
+- https://github.com/gmh5225/epic-r6-v9
 - https://github.com/Kix48/R6Updater
-- https://github.com/hooksteroid/R6Table_Internal
-- https://github.com/JGonz1337/r6-internal
+- https://github.com/gmh5225/R6Table_Internal
+- https://github.com/gmh5225/r6-internal
 - https://github.com/gmh5225/External-R6S-Cheat
-- https://github.com/vctr74/R6-Internal-V3
+- https://github.com/gmh5225/R6-Internal-V3
 - https://github.com/gmh5225/R6S-internal-Cheat
 - https://github.com/gmh5225/Rainbow-Six-Siege-Rs6-External-Esp-Aimbot-Hack-Cheat
 - https://github.com/gmh5225/Rainbow-6-Siege-Cheat
-- https://github.com/rushzzz-max/r6-external [External]
-- https://github.com/ArtemisDevGroup/Artemis [Internal]
+- https://github.com/gmh5225/r6-external [External]
+- https://github.com/gmh5225/Artemis [Internal]
 - https://github.com/gmh5225/R6-Cheat-Dumper [External]
 - https://github.com/gmh5225/R6S-External-V2 [External]
-- https://github.com/igromanru/R6-Chams-public [Chams]
+- https://github.com/gmh5225/R6-Chams-public [Chams]
 
 > Game:Overwatch 
 - https://github.com/gmh5225/PareidoliaTriggerbot [Triggerbot]
 - https://github.com/gmh5225/Overwatch-1-cheat-source-.
 - https://github.com/gmh5225/overwatch-iat-fixer [Overwatch IAT Fixer]
-- https://github.com/Midi12/ow_unpack
+- https://github.com/gmh5225/ow_unpack
 - https://github.com/gmh5225/OW-Aeternum
-- https://github.com/dword64/Ow-FOV [FOV]
+- https://github.com/gmh5225/Ow-FOV [FOV]
 
 > Game:Overwatch2
 - https://github.com/gmh5225/Overwatch2-colorbot-Cheats
 - https://github.com/gmh5225/Overwatch-2-Cheat-Aimbot-Esp
 - https://github.com/gmh5225/meowsense
 - https://github.com/gmh5225/Ow-Outlines [Shows Players through walls]
-- https://github.com/ZEROWyt/Overwatch-2-TOPE-EXTERNAL-CHEAT
+- https://github.com/gmh5225/Overwatch-2-TOPE-EXTERNAL-CHEAT
 - https://github.com/gmh5225/OW2-wardenrekter [Emulate OW2 AC]
 
 > Game:Paladins
@@ -3163,52 +3163,52 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 - https://github.com/gmh5225/Paladins-internal-Cheat
 
 > Game:DayZ
-- https://github.com/zhitkur/DayZzz
+- https://github.com/gmh5225/DayZzz
 - https://github.com/gmh5225/External-Dayz-Cheat
 - https://github.com/gmh5225/DayZ-Cheat
-- https://github.com/JonathanEke/DayZ-Server-Battleye-Remover [Disable battleye]
+- https://github.com/gmh5225/DayZ-Server-Battleye-Remover [Disable battleye]
 
 > Game:Rust
-- https://github.com/Akandesh/rust-auto-dumper [Auto Dump]
-- https://github.com/LabGuy94/OxideDumper [Auto Dump]
-- https://github.com/NMan1/OverflowRust
+- https://github.com/gmh5225/rust-auto-dumper [Auto Dump]
+- https://github.com/gmh5225/OxideDumper [Auto Dump]
+- https://github.com/gmh5225/OverflowRust
 - https://github.com/gmh5225/simple-rust-hack
 - https://github.com/gmh5225/rust-internal
 - https://github.com/gmh5225/Rust-External
 - https://github.com/gmh5225/Rico-Cheat-rust-external
 - https://github.com/spyder1g/a-pasted-rust-script
-- https://github.com/LordAbbot/Rust-External-Cheat
-- https://github.com/ZentifyZ/Kors_lol [Internal]
+- https://github.com/gmh5225/Rust-External-Cheat
+- https://github.com/gmh5225/Kors_lol [Internal]
 - https://github.com/gmh5225/Rust-Internal [Internal]
-- https://github.com/ZentifyZ/CRC32
+- https://github.com/gmh5225/CRC32
 - https://github.com/gmh5225/Rust-Cheat-External
-- https://github.com/krispybyte/Simple-Rust-Base
+- https://github.com/gmh5225/Simple-Rust-Base
 - https://github.com/gmh5225/sapphire
-- https://github.com/Disline1337/Rust-Cheat-External-main
+- https://github.com/gmh5225/Rust-Cheat-External-main
 - https://github.com/gmh5225/Rust-RustInternal [Internal]
 - https://github.com/gmh5225/rust-external-1 [External]
 - https://github.com/gmh5225/Rust-External [External]
 - https://github.com/gmh5225/Rust-ExternaL-and-Driver-AlienCheats [External]
 - https://github.com/gmh5225/Rust-External-Source [External]
 - https://github.com/gmh5225/immortal-rust
-- https://github.com/IntelSDM/RustDMACheat [DMA]
+- https://github.com/gmh5225/RustDMACheat [DMA]
 
 > Game:Arma3
-- https://github.com/Skengdo/arma3-external-variable-manager
-- https://github.com/R3voA3/3den-Enhanced [Mod Editor]
-- https://github.com/tym32167/arma3beclient [BattlEye Tool]
+- https://github.com/gmh5225/arma3-external-variable-manager
+- https://github.com/gmh5225/3den-Enhanced [Mod Editor]
+- https://github.com/gmh5225/arma3beclient [BattlEye Tool]
 
 > Game:7 Days To Die
-- https://github.com/IntelSDM/7DTD
+- https://github.com/gmh5225/7DTD
 
 > Game:AVA
-- https://github.com/boylin0/AVA-Hack
+- https://github.com/gmh5225/AVA-Hack
 
 > Game:Mordhau
-- https://github.com/Skengdo/mordhau-simple-auto-block-cheat
+- https://github.com/gmh5225/mordhau-simple-auto-block-cheat
 
 > Game:Smite  [UE3]
-- https://github.com/JackBro/SmiteESPAimbot 
+- https://github.com/gmh5225/SmiteESPAimbot 
 
 > Game:POLYGON [UE5]
 - https://github.com/gmh5225/POLYGON_UE5
@@ -3219,35 +3219,35 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 - https://github.com/gmh5225/Palworld-Server-Modding
 - https://github.com/gmh5225/PalWorld-ServerInjector
 - https://github.com/gmh5225/PalWorld-NetCrack
-- https://github.com/luciouskami/palworld_rcon [Server on Windows]
-- https://github.com/luciouskami/palworld_rcon [Server on Windows]
-- https://github.com/A1RM4X/HowTo-Palworld [Server on Linux]
-- https://github.com/jammsen/docker-palworld-dedicated-server [Server based on Linux and Docker]
-- https://github.com/VeroFess/PalWorld-Server-Unoffical-Fix [Server patch]
-- https://github.com/NattKh/PalWorld-Tools [Mod Patcher]
-- https://github.com/localcc/PalworldModdingKit [A modding kit for Palworld]
-- https://github.com/weizhking/PalworldSaved [Save]
-- https://github.com/cheahjs/palworld-save-tools [Save]
-- https://github.com/EternalWraith/PalEdit Save]
-- https://github.com/DysonCheng/PalWorldSettingGenerator [Setting Generator]
-- https://github.com/hualuoo/palworld-helper [Helper]
-- https://github.com/shalzuth/PalWorldAntiCheat [Anti Cheat]
-- https://github.com/g91/PalAntiCheat-poc [Anti Cheat]
+- https://github.com/gmh5225/palworld_rcon [Server on Windows]
+- https://github.com/gmh5225/palworld_rcon [Server on Windows]
+- https://github.com/gmh5225/HowTo-Palworld [Server on Linux]
+- https://github.com/gmh5225/docker-palworld-dedicated-server [Server based on Linux and Docker]
+- https://github.com/gmh5225/PalWorld-Server-Unoffical-Fix [Server patch]
+- https://github.com/gmh5225/PalWorld-Tools [Mod Patcher]
+- https://github.com/gmh5225/PalworldModdingKit [A modding kit for Palworld]
+- https://github.com/gmh5225/PalworldSaved [Save]
+- https://github.com/gmh5225/palworld-save-tools [Save]
+- https://github.com/gmh5225/PalEdit Save]
+- https://github.com/gmh5225/PalWorldSettingGenerator [Setting Generator]
+- https://github.com/gmh5225/palworld-helper [Helper]
+- https://github.com/gmh5225/PalWorldAntiCheat [Anti Cheat]
+- https://github.com/gmh5225/PalAntiCheat-poc [Anti Cheat]
 
 > Game:Genshin Impact
-- https://github.com/khang06/mhynot2
-- https://github.com/khang06/genshinjumpfixer2 [Decode CFG]
-- https://github.com/khang06/misc/tree/master/reversing/genshin [Decode CFG]
+- https://github.com/gmh5225/mhynot2
+- https://github.com/gmh5225/genshinjumpfixer2 [Decode CFG]
+- https://github.com/gmh5225/misc/tree/master/reversing/genshin [Decode CFG]
 - https://github.com/DNLINYJ/Anti_miHoYo_Jcc_Obfuscate [Decode CFG By X64DBG]
 - https://github.com/gmh5225/genshin-cheat
-- https://github.com/Grasscutters/Grasscutter [Private Server]
+- https://github.com/gmh5225/Grasscutter [Private Server]
 - https://github.com/gmh5225/Genshin-Akebi-GC [Cheat]
 - https://github.com/gmh5225/Akebi-Cheat-3.3 [Cheat]
 - https://github.com/gmh5225/Genshin-GenshinData [Game Data]
 - https://github.com/gmh5225/YaeAchievement
 - https://github.com/phonowell/genshin-impact-script [A sweet genshin impact script]
 - https://github.com/gmh5225/GenshinImpact-Base
-- https://github.com/360NENZ/Taiga74164-Akebi-GC
+- https://github.com/gmh5225/Taiga74164-Akebi-GC
 - https://github.com/gmh5225/EasyPeasy-GC
 - https://github.com/gmh5225/GenshinDebuggerBypass
 - https://github.com/gmh5225/Genshin-EasyPeasy-Bypass [Anti-Debug Bypass]
@@ -3374,7 +3374,7 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 > Stress Testing
 - https://github.com/niemand-sec/AntiCheat-Testing-Framework [Testing Framework]
 - https://github.com/gmh5225/MemWars [Testing Framework]
-- https://github.com/ekknod/EC [Testing Framework]
+- https://github.com/gmh5225/EC [Testing Framework]
 - https://github.com/stuxnet147/Known-Driver-Mappers [Known Driver Mappers]
 - https://github.com/DanielRTeixeira/injectAllTheThings [Injection Testing]
 - https://github.com/MahmoudZohdy/Process-Injection-Techniques [Injection Testing]
@@ -3966,7 +3966,7 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://github.com/gmh5225/IDLE-Abuse
 - https://github.com/gmh5225/FlavorTown
 - https://github.com/gmh5225/instrumentation_callbacks [Instrumentation Callback]
-- https://github.com/R4YVEN/beservice_intcallbacks [Instrumentation Callback]
+- https://github.com/gmh5225/beservice_intcallbacks [Instrumentation Callback]
 - https://github.com/gmh5225/Hooking-via-InstrumentationCallback [Instrumentation Callback]
 - https://github.com/gmh5225/EtwTi-Syscall-Hook [Instrumentation Callback]
 - https://github.com/gmh5225/syscall-detect [Instrumentation Callback]
@@ -4000,18 +4000,18 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://github.com/gmh5225/dumpulator [Emulating code in minidump files]
 - https://github.com/gmh5225/symbolizer [Execution trace symbolizer]
 - https://github.com/gmh5225/libmdmp [Minidump]
-- https://github.com/tasox/miniDumpReader [Minidump]
+- https://github.com/gmh5225/miniDumpReader [Minidump]
 
 > Sign Tools
-- https://github.com/mtrojnar/osslsigncode
+- https://github.com/gmh5225/osslsigncode
 - https://github.com/gmh5225/chainoffools [CVE]
-- https://github.com/mattifestation/WDACTools [Decrypt p7b]
+- https://github.com/gmh5225/WDACTools [Decrypt p7b]
 - https://github.com/utoni/PastDSE [Sign Leaked Cert]
 - https://github.com/Jemmy1228/HookSigntool [Sign Leaked Cert]
-- https://github.com/namazso/MagicSigner [Sign Leaked Cert]
+- https://github.com/gmh5225/MagicSigner [Sign Leaked Cert]
 - https://github.com/hzqst/FuckCertVerifyTimeValidity [Sign Leaked Cert]
-- https://github.com/mathisvickie/sign-expired [Sign Leaked Cert]
-- https://github.com/hackerhouse-opensource/SignToolEx [Sign Leaked Cert]
+- https://github.com/gmh5225/sign-expired [Sign Leaked Cert]
+- https://github.com/gmh5225/SignToolEx [Sign Leaked Cert]
 
 > Backup File
 - https://github.com/guidoreina/minivers [Generates Backup Copies]
@@ -4089,9 +4089,9 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://secret.club/2021/01/04/thread-stuff.html [Anti Debug]
 - https://github.com/utoni/PastDSE [Sign Leaked Cert]
 - https://github.com/Jemmy1228/HookSigntool [Sign Leaked Cert]
-- https://github.com/namazso/MagicSigner [Sign Leaked Cert]
+- https://github.com/gmh5225/MagicSigner [Sign Leaked Cert]
 - https://github.com/hzqst/FuckCertVerifyTimeValidity [Sign Leaked Cert]
-- https://github.com/mathisvickie/sign-expired [Sign Leaked Cert]
+- https://github.com/gmh5225/sign-expired [Sign Leaked Cert]
 - https://github.com/gmh5225/StealingSignatures [Stealing signatures from pe files]
 - https://github.com/gmh5225/SigThief [Stealing signatures from pe files]
 - https://github.com/gmh5225/SignatureKid [Stealing signatures from pe files]
@@ -4225,17 +4225,17 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://github.com/gmh5225/yuzu-archive
 - https://github.com/gmh5225/Yuzu-Backup
 - https://github.com/gmh5225/nuzu [Yuzu based repository]
-- https://github.com/CTCaer/hekate [A GUI based Nintendo Switch Bootloader]
-- https://github.com/Atmosphere-NX/Atmosphere [Customized firmware]
+- https://github.com/gmh5225/hekate [A GUI based Nintendo Switch Bootloader]
+- https://github.com/gmh5225/Atmosphere [Customized firmware]
 - https://github.com/tomvita/SE-tools [Memory hacking]
-- https://github.com/jakcron/nstool [General purpose read/extract tool]
+- https://github.com/gmh5225/nstool [General purpose read/extract tool]
 
 ## Xbox
-- https://github.com/xemu-project/xemu [Xbox Emulator for Windows]
-- https://github.com/xenia-project/xenia [Xbox 360 Emulator Research Project]
+- https://github.com/gmh5225/xemu [Xbox Emulator for Windows]
+- https://github.com/gmh5225/xenia [Xbox 360 Emulator Research Project]
 - https://github.com/wmarti/xenia-mac [MacOS Port of the Xbox 360 Emulator]
 - https://github.com/rexdex/recompiler [Porting Xbox360 executables to Windows]
-- https://github.com/exploits-forsale/collateral-damage [Kernel exploit for Xbox SystemOS using CVE-2024-30088]
+- https://github.com/gmh5225/collateral-damage [Kernel exploit for Xbox SystemOS using CVE-2024-30088]
 - https://github.com/Byrom90/XenonDumper [Dumps files & data required to use the Xenon Xbox 360 Low Level Emulator]
-- https://github.com/exjam/xbox360-emu [A xbox 360 emulator]
+- https://github.com/gmh5225/xbox360-emu [A xbox 360 emulator]
 
