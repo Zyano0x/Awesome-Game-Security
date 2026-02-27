@@ -457,7 +457,7 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 - https://github.com/gmh5225/mcpup [MCP for unity]
 - https://github.com/gmh5225/vibe-blocks-mcp [MCP for Roblox Studio]
 - https://github.com/LaurieWired/GhidraMCP [MCP for Ghidra]
-- https://github.com/jtang613/GhidrAssistMCP [MCP for Ghidra]
+- https://github.com/gmh5225/GhidrAssistMCP [MCP for Ghidra]
 - https://github.com/mrexodia/ida-pro-mcp [MCP for IDA pro]
 - https://github.com/cnitlrt/headless-ida-mcp-server [MCP for IDA pro(headless)]
 - https://github.com/MxIris-Reverse-Engineering/ida-mcp-server [MCP for IDA pro]
@@ -817,99 +817,99 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 - https://github.com/PartialVolume/shredos.x86_64 [Disk Eraser]
 - https://github.com/ssnob/hidden_syscall_monitoring [monitors hidden syscalls called from call of duty anticheat]
 - https://github.com/cansarigol/pdbr [pdb + Rich library]
-- https://github.com/microsoft/pdb-rs [Tools and documents for working with Microsoft PDB files, in Rust]
+- https://github.com/gmh5225/pdb-rs [Tools and documents for working with Microsoft PDB files, in Rust]
 - https://github.com/roger1337/JDBG [Java Runtime Reverse Engineering and Debugging Tool]
 - https://github.com/atrexus/vulkan [A PE dumper for processes protected by user mode anti-tamper solutions (hyperion, theia, etc.)]
-- https://github.com/linuxboot/fiano [Go-based tools for modifying UEFI firmware]
-- https://github.com/leeqwind/PESignAnalyzer [A Simple PE File Signature information Extracting Tool]
-- https://github.com/microsoft/SDCM [Surface Dev Center Manager tool to automate WHQL/Attestation submissions]
-- https://github.com/MxIris-Reverse-Engineering/RuntimeViewer [Objective-C Runtime Viewer for macOS and iOS]
-- https://github.com/skylot/raung [Assembler/disassembler for java bytecode]
-- https://github.com/hx1997/dayu [Open/HarmonyOS abc file parser and decompiler]
-- https://github.com/jd-opensource/arkdecompiler [HarmonyOS NEXT decompilation tool]
-- https://github.com/loerting/dalvikus [Android reverse-engineering tool / smali editor]
-- https://github.com/poppopjmp/VMDragonSlayer [Advanced Virtual Machine Detection and Analysis Framework]
-- https://github.com/Byrom90/XenonDumper [Dumps files & data required to use the Xenon Xbox 360 Low Level Emulator]
-- https://github.com/WenzWenzWenz/DelphiReSym [A Delphi symbol name recovery tool for reverse engineers]
-- https://github.com/Hexorg/Ouroboros [A Symbolic-Execution Decompiler written in Rust]
-- https://github.com/pandaadir05/re-architect [RE-Architect is an advanced automated reverse engineering platform that utilizes binary analysis techniques and machine learning to understand binary files and extract meaningful information]
+- https://github.com/gmh5225/fiano [Go-based tools for modifying UEFI firmware]
+- https://github.com/gmh5225/PESignAnalyzer [A Simple PE File Signature information Extracting Tool]
+- https://github.com/gmh5225/SDCM [Surface Dev Center Manager tool to automate WHQL/Attestation submissions]
+- https://github.com/gmh5225/RuntimeViewer [Objective-C Runtime Viewer for macOS and iOS]
+- https://github.com/gmh5225/raung [Assembler/disassembler for java bytecode]
+- https://github.com/gmh5225/dayu [Open/HarmonyOS abc file parser and decompiler]
+- https://github.com/gmh5225/arkdecompiler [HarmonyOS NEXT decompilation tool]
+- https://github.com/gmh5225/dalvikus [Android reverse-engineering tool / smali editor]
+- https://github.com/gmh5225/VMDragonSlayer [Advanced Virtual Machine Detection and Analysis Framework]
+- https://github.com/gmh5225/XenonDumper [Dumps files & data required to use the Xenon Xbox 360 Low Level Emulator]
+- https://github.com/gmh5225/DelphiReSym [A Delphi symbol name recovery tool for reverse engineers]
+- https://github.com/gmh5225/Ouroboros [A Symbolic-Execution Decompiler written in Rust]
+- https://github.com/gmh5225/re-architect [RE-Architect is an advanced automated reverse engineering platform that utilizes binary analysis techniques and machine learning to understand binary files and extract meaningful information]
 - https://github.com/gmh5225/js-debugger-bypass-script [JS Debugger Bypass UserScript]
-- https://github.com/diversenok/DiaSymbolView [PDB file inspection tool]
-- https://github.com/CheckPointSW/Nodejs-Tracer [Simple Node.jstracer that logs calls to analyze heavily obfuscated Node.js malware]
-- https://github.com/jsacco/ntoskrnlwalker [Resolve offsets, gadgets and symbols from NTKernel]
+- https://github.com/gmh5225/DiaSymbolView [PDB file inspection tool]
+- https://github.com/gmh5225/Nodejs-Tracer [Simple Node.jstracer that logs calls to analyze heavily obfuscated Node.js malware]
+- https://github.com/gmh5225/ntoskrnlwalker [Resolve offsets, gadgets and symbols from NTKernel]
 
 > Mixed boolean-arithmetic
 - https://github.com/Colton1skees/mba-resources [List of mixed boolean-arithmetic resources]
 
 > Fix VMP
 - https://github.com/gmh5225/VMProtect
-- https://github.com/wallds/NoVmpy
+- https://github.com/gmh5225/NoVmpy
 - https://github.com/gmh5225/VMP-Vmp3_64bit_disasm-prerelease-
 - https://github.com/gmh5225/Vmp3_utils
-- https://github.com/archercreat/titan
-- https://github.com/NaC-L/Mergen
-- https://github.com/fjqisba/VmpHelper
-- https://github.com/xtremegamer1/vmdevirt-vtil
-- https://github.com/oureveryday/VMPUnpacker/tree/master [Unpacker]
-- https://github.com/poppopjmp/VMDragonSlayer [Advanced Virtual Machine Detection and Analysis Framework]
+- https://github.com/gmh5225/titan
+- https://github.com/gmh5225/Mergen
+- https://github.com/gmh5225/VmpHelper
+- https://github.com/gmh5225/vmdevirt-vtil
+- https://github.com/gmh5225/VMPUnpacker/tree/master [Unpacker]
+- https://github.com/gmh5225/VMDragonSlayer [Advanced Virtual Machine Detection and Analysis Framework]
 
 > Fix Themida
-- https://github.com/sodareverse/TDE
-- https://github.com/ergrelet/themida-unmutate
-- https://github.com/stuxnet147/Themida-Research [Themida 3.x research]
+- https://github.com/gmh5225/TDE
+- https://github.com/gmh5225/themida-unmutate
+- https://github.com/gmh5225/Themida-Research [Themida 3.x research]
 
 > Fix OLLVM
 - https://bbs.pediy.com/thread-272414.htm
-- https://github.com/obpo-project/obpo-plugin
-- https://github.com/IIIImmmyyy/AntiOllvm [AntiOllvm Fla with Fake Runtime]
-- https://github.com/Mrack/DeObfBR [libtprt.so]
-- https://github.com/zhuzhu-Top/deobf [libtprt.so]
-- https://github.com/cdong1012/ollvm-unflattener [unflattener]
-- https://github.com/JbvrgtonYT/ollvm-unflattener [unflattener]
+- https://github.com/gmh5225/obpo-plugin
+- https://github.com/gmh5225/AntiOllvm [AntiOllvm Fla with Fake Runtime]
+- https://github.com/gmh5225/DeObfBR [libtprt.so]
+- https://github.com/gmh5225/deobf [libtprt.so]
+- https://github.com/gmh5225/ollvm-unflattener [unflattener]
+- https://github.com/gmh5225/ollvm-unflattener [unflattener]
 
 > Dynamic Binary Instrumentation
-- https://github.com/hzqst/unicorn_pe
+- https://github.com/gmh5225/unicorn_pe
 - https://github.com/momo5502/sogen [Windows User Space Emulator]
-- https://github.com/mojtabafalleh/emulator [Windows User Space Emulator]
-- https://github.com/binsnake/KUBERA [A x86 environment emulator for Windows user and kernel binaries]
-- https://github.com/ZehMatt/zyemu [x86-64 user mode emulation using Zydis]
+- https://github.com/gmh5225/emulator [Windows User Space Emulator]
+- https://github.com/gmh5225/KUBERA [A x86 environment emulator for Windows user and kernel binaries]
+- https://github.com/gmh5225/zyemu [x86-64 user mode emulation using Zydis]
 - https://github.com/Nitr0-G/PeVisor [PE]
-- https://github.com/googleprojectzero/TinyInst
-- https://github.com/revsic/cpp-veh-dbi
-- https://github.com/ZehMatt/CovCane
-- https://github.com/bitdefender/river
-- https://github.com/beehive-lab/mambo [ARM]
-- https://github.com/DynamoRIO/drmemory
-- https://github.com/aroxby/dynre-x86
-- https://github.com/WaterlooBridge/adbi [For Android]
-- https://github.com/crmulliner/adbi [For Android]
-- https://github.com/ndrewh/pyda [Write dynamic binary analysis tools in Python]
-- https://github.com/redthing1/w1tn3ss [dynamic binary instrumentation, analysis, and patching framework]
+- https://github.com/gmh5225/TinyInst
+- https://github.com/gmh5225/cpp-veh-dbi
+- https://github.com/gmh5225/CovCane
+- https://github.com/gmh5225/river
+- https://github.com/gmh5225/mambo [ARM]
+- https://github.com/gmh5225/drmemory
+- https://github.com/gmh5225/dynre-x86
+- https://github.com/gmh5225/adbi [For Android]
+- https://github.com/gmh5225/adbi [For Android]
+- https://github.com/gmh5225/pyda [Write dynamic binary analysis tools in Python]
+- https://github.com/gmh5225/w1tn3ss [dynamic binary instrumentation, analysis, and patching framework]
 - https://github.com/g2wfw/qbdi-tracer-android [Android assembly instruction tracing tool]
-- https://github.com/facebookresearch/CUTracer [A dynamic binary instrumentation tool for tracing and analyzing CUDA kernel instructions]
+- https://github.com/gmh5225/CUTracer [A dynamic binary instrumentation tool for tracing and analyzing CUDA kernel instructions]
 
 > Launcher Abuser
-- https://github.com/Ricardonacif/launcher-abuser
+- https://github.com/gmh5225/launcher-abuser
 
 > PatchGuard-related
 - https://github.com/armasm/EasyAntiPatchGuard
-- https://github.com/9176324/Shark
+- https://github.com/gmh5225/Shark
 - https://github.com/gmh5225/Patchguard-2023 [Shark]
-- https://github.com/hfiref0x/UPGDSED [File]
-- https://github.com/Mattiwatti/EfiGuard [EFI]
-- https://github.com/zzhouhe/PG1903 [Demo NX]
+- https://github.com/gmh5225/UPGDSED [File]
+- https://github.com/gmh5225/EfiGuard [EFI]
+- https://github.com/gmh5225/PG1903 [Demo NX]
 - https://gist.github.com/gmh5225/0a0c8e3a2d718e2d6f9b6a07d5e0f80a [PG CTX]
 - https://github.com/gmh5225/QuickPGTrigger [Stress Testing]
-- https://github.com/tandasat/Sushi [Monitoring PG]
+- https://github.com/gmh5225/Sushi [Monitoring PG]
 - https://github.com/gmh5225/Disabling-Hyper-V [Disable Hyper-V]
-- https://github.com/AdamOron/PatchGuardBypass
-- https://github.com/zer0condition/Demystifying-PatchGuard
-- https://github.com/4l3x777/dse_pg_bypass [DSE & PG bypass via BYOVD attack]
+- https://github.com/gmh5225/PatchGuardBypass
+- https://github.com/gmh5225/Demystifying-PatchGuard
+- https://github.com/gmh5225/dse_pg_bypass [DSE & PG bypass via BYOVD attack]
 - https://github.com/gmh5225/VulnerablePatchGuardExploit [A Vulnerable PatchGuard Exploit that can be used to disable PatchGuard on Runtime]
-- https://github.com/emlinhax/tableflipper [partially disable patchguard up to win11 21H2]
-- https://github.com/AmitMoshel1/PatchGuardEncryptorDriver [Self-implemented PatchGuard]
+- https://github.com/gmh5225/tableflipper [partially disable patchguard up to win11 21H2]
+- https://github.com/gmh5225/PatchGuardEncryptorDriver [Self-implemented PatchGuard]
 - https://r0keb.github.io/posts/PatchGuard-Internals [PatchGuard Internals]
-- https://github.com/NeoMaster831/kurasagi [Windows 11 24H2 Runtime PatchGuard Bypass]
+- https://github.com/gmh5225/kurasagi [Windows 11 24H2 Runtime PatchGuard Bypass]
 
 > Driver Signature enforcement
 - https://github.com/gmh5225/dse_hook
@@ -917,7 +917,7 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 - https://github.com/gmh5225/DisableDSE
 
 > Windows Kernel Explorer
-- https://github.com/NullArray/WinKernel-Resources [Guide]
+- https://github.com/gmh5225/WinKernel-Resources [Guide]
 - https://github.com/supermanc88/Document/tree/master/Windows%20Driver%20Development [Guide]
 - https://windiff.vercel.app [Diff]
 - https://github.com/gmh5225/ntoskrnl_file_collection [Various versions of ntoskrnl files]
@@ -1094,7 +1094,7 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 - https://github.com/pgp/XFiles [A general-purpose file explorer for (rooted) Android]
 - https://github.com/Raival-e/File-Explorer [An Android file explorer]
 - https://github.com/obfusk/apksigcopier [apksigcopier - copy/extract/patch android apk signatures & compare apks]
-- https://github.com/loerting/dalvikus [Android reverse-engineering tool / smali editor]
+- https://github.com/gmh5225/dalvikus [Android reverse-engineering tool / smali editor]
 
 > Android Memory Explorer
 - https://github.com/misc0110/PTEditor [PT Editor]
@@ -1262,7 +1262,7 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 - https://github.com/DerekSelander/dynadump [A runtime ObjC class-dump]
 - https://github.com/jsherman212/xnuspy [an iOS kernel function hooking framework for checkra1n'able devices]
 - https://gist.github.com/gmh5225/95151b245267a27b3cdbea949632c680 [DirtyZero Exp]
-- https://github.com/MxIris-Reverse-Engineering/RuntimeViewer [Objective-C Runtime Viewer for macOS and iOS]
+- https://github.com/gmh5225/RuntimeViewer [Objective-C Runtime Viewer for macOS and iOS]
 
 > IOS File Explorer
 - https://github.com/DerekSelander/dynadump [A runtime ObjC class-dump]
@@ -1290,7 +1290,7 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 - https://github.com/gmh5225/deobfuscator [Java]
 - https://github.com/gmh5225/binsync [Sync]
 - https://github.com/gmh5225/ethersplay [EVM dissassembler]
-- https://github.com/Hexorg/Ouroboros [A Symbolic-Execution Decompiler written in Rust]
+- https://github.com/gmh5225/Ouroboros [A Symbolic-Execution Decompiler written in Rust]
 
 > IDA themes
 - https://github.com/gmh5225/dp701 [Dark theme for IDA Pro]
@@ -1425,7 +1425,7 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 - https://github.com/matteyeux/IDArling [IDArling is a collaborative reverse engineering plugin for IDA Pro and Hex-Rays]
 - https://github.com/richor1042/IDAFuncOutline [optimize the readability of decompiled code for iOS ARM64 binaries]
 - https://github.com/Dump-GUY/IDA_PHNT_TYPES [Converted phnt to IDA TIL, IDC (Hex-Rays)]
-- https://github.com/Mrack/DeObfBR [libtprt.so]
+- https://github.com/gmh5225/DeObfBR [libtprt.so]
 - https://github.com/janisslsm/ida-ps4-helper [A helper plugin for PS4 module loader]
 - https://github.com/Antelcat/ida_copilot [ChatGPT Agent analyses your IDA pseudocode]
 - https://github.com/crytic/ida-evm [IDA Processor Module for the Ethereum Virtual Machine (EVM)]
@@ -1460,7 +1460,7 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 - https://github.com/loyaltypollution/ida2llvm [IDA2LLVM - Dynamic Binary Lifting IDA code to LLVM IR]
 - https://github.com/GAMMACASE/PltPatcher [Patches PLT sections when IDA fails to do so]
 - https://github.com/yoavst/ida-ios-helper [Plugin to ease reversing iOS projects]
-- https://github.com/poppopjmp/VMDragonSlayer [Advanced Virtual Machine Detection and Analysis Framework]
+- https://github.com/gmh5225/VMDragonSlayer [Advanced Virtual Machine Detection and Analysis Framework]
 - https://github.com/milankovo/ida_enums_helper [IDA Enums Helper Plugin]
 - https://github.com/axelmierczuk/tenrec [A headless, extendable, multi-session, IDA Pro MCP framework]
 - https://github.com/blacktop/ida-mcp-rs [Headless IDA Pro MCP server]
@@ -1509,128 +1509,128 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 - https://github.com/mrphrazer/obfuscation_detection [Collection of scripts to pinpoint obfuscated code]
 - [Package Binary Code as a Python class using Binary Ninja and Unicorn Engine](https://github.com/pbiernat/ripr)
 - https://github.com/seeinglogic/ariadne [Graph Analysis]
-- https://github.com/skr0x1c0/binja_kc [Plugin for loading MachO kernelcache and dSYM files]
-- https://github.com/Vector35/workflow_objc [Objective-C]
-- https://github.com/apekros/binja_sigmaker [Create and find signatures]
-- https://github.com/dayzerosec/AMD-SP-Loader [AMD-SP or PSP firmware]
-- https://github.com/WhatTheFuzz/binaryninja-openai [Integrates OpenAI]
-- https://github.com/dzervas/frinja [Frida plugin for Binary Ninja]
+- https://github.com/gmh5225/binja_kc [Plugin for loading MachO kernelcache and dSYM files]
+- https://github.com/gmh5225/workflow_objc [Objective-C]
+- https://github.com/gmh5225/binja_sigmaker [Create and find signatures]
+- https://github.com/gmh5225/AMD-SP-Loader [AMD-SP or PSP firmware]
+- https://github.com/gmh5225/binaryninja-openai [Integrates OpenAI]
+- https://github.com/gmh5225/frinja [Frida plugin for Binary Ninja]
 - https://github.com/danielplohmann/gui-plugin-template [A template for cross-compatible GUI plugins]
-- https://github.com/ergrelet/themida-spotter-bn [Detect Themida/WinLicense and Code Virtualizer's obfuscated code locations]
-- https://github.com/ahaggard2013/binaryninja-ollama [Binary Ninja Ollama]
-- https://github.com/0xricksanchez/Shellcoder [BinaryNinja Shellcoder Plugin]
+- https://github.com/gmh5225/themida-spotter-bn [Detect Themida/WinLicense and Code Virtualizer's obfuscated code locations]
+- https://github.com/gmh5225/binaryninja-ollama [Binary Ninja Ollama]
+- https://github.com/gmh5225/Shellcoder [BinaryNinja Shellcoder Plugin]
 - https://github.com/pd0wm/binaryninja-pcode [This plugin serves as a bridge between Binary Ninja and Ghidra's disassembler]
-- https://github.com/zhuzhu-Top/deobf [libtprt.so]
+- https://github.com/gmh5225/deobf [libtprt.so]
 - https://github.com/junron/auto-enum [automatically identify and set enums for standard functions]
-- https://github.com/otter-sec/bn-ebpf-solana [Binary Ninja plugin for Solana eBPF]
+- https://github.com/gmh5225/bn-ebpf-solana [Binary Ninja plugin for Solana eBPF]
 - https://github.com/fosdickio/binary_ninja_mcp [MCP for Binary_Ninja]
 - https://github.com/Invoke-RE/binja-lattice-mcp [MCP for Binary_Ninja]
-- https://github.com/mrphrazer/obfuscation_analysis [Binary Ninja plugin to analyze and simplify obfuscated code]
-- https://github.com/ScriptWare-Software/native-predicate-solver [Binary Ninja plugin for removing opaque predicates]
+- https://github.com/gmh5225/obfuscation_analysis [Binary Ninja plugin to analyze and simplify obfuscated code]
+- https://github.com/gmh5225/native-predicate-solver [Binary Ninja plugin for removing opaque predicates]
 
 > Ghidra Plugins
-- https://github.com/AllsafeCyberSecurity/awesome-ghidra [List]
-- https://github.com/CENSUS/ghidra-frida-hook-gen
-- https://github.com/Gekkio/GhidraBoy [Sharp SM83 / Game Boy extension for Ghidra]
-- https://github.com/fmagin/ghidra-openai [ChatGPT]
-- https://github.com/securityjoes/ThreatResearch [ChatGPT]
-- https://github.com/evyatar9/GptHidra [ChatGPT]
-- https://github.com/moyix/gpt-wpre [ChatGPT]
-- https://github.com/pudii/gba-ghidra-loader [GameBoy]
-- https://github.com/MEhrn00/Ghidra_COFFParser [COFF]
-- https://github.com/ghidragolf/ghidra_scripts [Scripts]
-- https://github.com/PAGalaxyLab/ghidra_scripts [Scripts]
-- https://github.com/danbrodsky/GFred [Command Palette]
-- https://github.com/Nalen98/AngryGhidra [Use angr in Ghidra]
-- https://github.com/justfoxing/ghidra_bridge [Python 3 bridge to Ghidra's Python scripting]
-- https://github.com/astrelsky/GhidraOrbis [Orbis OS specific software and file formats]
-- https://github.com/astrelsky/Ghidra-Cpp-Class-Analyzer [C++ Class and Run Time Type Information Analyzer]
-- https://github.com/DMaroo/GhidRust [Rust decompiler]
-- https://github.com/Comsecuris/gdbghidra [GDB session]
-- https://github.com/hyuunnn/Hyara [Yara]
-- https://github.com/Deatty/Ghidra-Obfuscation-Detection [Detect obfuscated/complex code]
-- https://github.com/advanced-threat-research/GhidraScripts [Some scripts]
-- https://github.com/fuzzypickles14/BetterStringAnalyzer [A better string analyzer for Ghidra]
-- https://github.com/clearbluejar/ghidriff [Python Command-Line Ghidra Binary Diffing Engine]
-- https://github.com/Katharsas/ghidra-struct-importer [Struct Importer]
+- https://github.com/gmh5225/awesome-ghidra [List]
+- https://github.com/gmh5225/ghidra-frida-hook-gen
+- https://github.com/gmh5225/GhidraBoy [Sharp SM83 / Game Boy extension for Ghidra]
+- https://github.com/gmh5225/ghidra-openai [ChatGPT]
+- https://github.com/gmh5225/ThreatResearch [ChatGPT]
+- https://github.com/gmh5225/GptHidra [ChatGPT]
+- https://github.com/gmh5225/gpt-wpre [ChatGPT]
+- https://github.com/gmh5225/gba-ghidra-loader [GameBoy]
+- https://github.com/gmh5225/Ghidra_COFFParser [COFF]
+- https://github.com/gmh5225/ghidra_scripts [Scripts]
+- https://github.com/gmh5225/ghidra_scripts [Scripts]
+- https://github.com/gmh5225/GFred [Command Palette]
+- https://github.com/gmh5225/AngryGhidra [Use angr in Ghidra]
+- https://github.com/gmh5225/ghidra_bridge [Python 3 bridge to Ghidra's Python scripting]
+- https://github.com/gmh5225/GhidraOrbis [Orbis OS specific software and file formats]
+- https://github.com/gmh5225/Ghidra-Cpp-Class-Analyzer [C++ Class and Run Time Type Information Analyzer]
+- https://github.com/gmh5225/GhidRust [Rust decompiler]
+- https://github.com/gmh5225/gdbghidra [GDB session]
+- https://github.com/gmh5225/Hyara [Yara]
+- https://github.com/gmh5225/Ghidra-Obfuscation-Detection [Detect obfuscated/complex code]
+- https://github.com/gmh5225/GhidraScripts [Some scripts]
+- https://github.com/gmh5225/BetterStringAnalyzer [A better string analyzer for Ghidra]
+- https://github.com/gmh5225/ghidriff [Python Command-Line Ghidra Binary Diffing Engine]
+- https://github.com/gmh5225/ghidra-struct-importer [Struct Importer]
 - https://github.com/danielplohmann/gui-plugin-template [A template for cross-compatible GUI plugins]
-- https://github.com/astrelsky/GhidraGradlePlugin [Gradle]
-- https://github.com/jtang613/GhidrAssist [An LLM extension for Ghidra to enable AI assistance in RE]
-- https://github.com/DSecurity/efiSeek [Ghidra analyzer for UEFI firmware]
+- https://github.com/gmh5225/GhidraGradlePlugin [Gradle]
+- https://github.com/gmh5225/GhidrAssist [An LLM extension for Ghidra to enable AI assistance in RE]
+- https://github.com/gmh5225/efiSeek [Ghidra analyzer for UEFI firmware]
 - https://github.com/LaurieWired/GhidraMCP [MCP for Ghidra]
-- https://github.com/Rantanen/ghidra-minidump-loader [Windows Minidump loader for Ghidra]
-- https://github.com/jtang613/GhidrAssistMCP [An MCP extension for Ghidra]
-- https://github.com/poppopjmp/VMDragonSlayer [Advanced Virtual Machine Detection and Analysis Framework]
+- https://github.com/gmh5225/ghidra-minidump-loader [Windows Minidump loader for Ghidra]
+- https://github.com/gmh5225/GhidrAssistMCP [An MCP extension for Ghidra]
+- https://github.com/gmh5225/VMDragonSlayer [Advanced Virtual Machine Detection and Analysis Framework]
 
 > Radare Plugins
 - https://github.com/radareorg/r2a [local language model for radare2]
-- https://github.com/radareorg/radius2 [Fast binary emulation and symbolic execution framework using radare2]
+- https://github.com/gmh5225/radius2 [Fast binary emulation and symbolic execution framework using radare2]
 - https://github.com/seifreed/r2morph [A metamorphic binary transformation engine based on r2pipe and radare2]
 
 > Windbg Plugins
 - https://github.com/comaeio/SwishDbgExt
-- https://github.com/lowleveldesign/comon [Trace COM]
-- https://github.com/bruce30262/TWindbg [PEDA-like debugger UI for WinDbg]
-- https://github.com/JKornev/cfgdump [Analyze Control Flow Guard map]
-- https://github.com/yardenshafir/WinDbg_Scripts [WinDbg scripts]
-- https://github.com/long123king/dk [Refactored version of tokenext]
-- https://github.com/ch3rn0byl/WinDbg-Extensions [Callback Extension]
-- https://github.com/KasperskyLab/WinDbg-JS-Scripts [JS Scripts]
-- https://github.com/DumpAnalysis/WinDbg_Copilot [WinDbg Copilot]
-- https://github.com/eversinc33/drvtrace [Trace driver module transitions]
+- https://github.com/gmh5225/comon [Trace COM]
+- https://github.com/gmh5225/TWindbg [PEDA-like debugger UI for WinDbg]
+- https://github.com/gmh5225/cfgdump [Analyze Control Flow Guard map]
+- https://github.com/gmh5225/WinDbg_Scripts [WinDbg scripts]
+- https://github.com/gmh5225/dk [Refactored version of tokenext]
+- https://github.com/gmh5225/WinDbg-Extensions [Callback Extension]
+- https://github.com/gmh5225/WinDbg-JS-Scripts [JS Scripts]
+- https://github.com/gmh5225/WinDbg_Copilot [WinDbg Copilot]
+- https://github.com/gmh5225/drvtrace [Trace driver module transitions]
 
 > X64DBG Plugins
 - https://github.com/x64dbg/x64dbg/wiki/Plugins
-- https://github.com/horsicq/x64dbg-Plugin-Manager
-- https://github.com/m417z/Multiline-Ultimate-Assembler
+- https://github.com/gmh5225/x64dbg-Plugin-Manager
+- https://github.com/gmh5225/Multiline-Ultimate-Assembler
 - https://github.com/x64dbg/Classroom
-- https://github.com/VenTaz/Themidie
-- https://github.com/Ahmadmansoor/x64dbgScript
-- https://github.com/push0ebp/xMalHunter [Detect malicious materials]
-- https://github.com/morsisko/xFindOut
-- https://github.com/jdavidberger/chaiScriptPlugin
+- https://github.com/gmh5225/Themidie
+- https://github.com/gmh5225/x64dbgScript
+- https://github.com/gmh5225/xMalHunter [Detect malicious materials]
+- https://github.com/gmh5225/xFindOut
+- https://github.com/gmh5225/chaiScriptPlugin
 - https://github.com/gmh5225/X64DBG-ViewDllNotification
-- https://github.com/legendabrn/AutoAttach
-- https://github.com/secrary/idenLib [Generate signatures]
+- https://github.com/gmh5225/AutoAttach
+- https://github.com/gmh5225/idenLib [Generate signatures]
 - https://github.com/gmh5225/GhidraDec [Ghidra Decompiler]
-- https://github.com/x64dbg/x64dbgbinja [Binary Ninja]
+- https://github.com/gmh5225/x64dbgbinja [Binary Ninja]
 - https://github.com/DNLINYJ/Anti_miHoYo_Jcc_Obfuscate
-- https://github.com/mrexodia/DisableParallelLoader [Disable parallel loading of dependencies]
-- https://github.com/ElvisBlue/x64dbgpython [Running python3 script]
-- https://github.com/secrary/idenLibX [Library Function Identification]
-- https://github.com/x64dbg/SlothBP [Collaborative Breakpoint Manager]
-- https://github.com/Kwansy98/ApiBreakpoint [Api Breakpoint]
-- https://github.com/0ffffffffh/yummyPaste [paste string formatted byte data block into x64dbg easy]
-- https://github.com/horsicq/x64dbg-Plugin-Manager [Plugin manager for x64dbg]
-- https://github.com/ZehMatt/x64dbgPlaytime [Lua script]
-- https://github.com/milcert/ExpoMon [Exports monitoring]
-- https://github.com/m417z/x64dbg-xfg-marker [Marks XFG call signatures as data]
-- https://github.com/Kwansy98/x64dbgCallFinder [Call Finder]
+- https://github.com/gmh5225/DisableParallelLoader [Disable parallel loading of dependencies]
+- https://github.com/gmh5225/x64dbgpython [Running python3 script]
+- https://github.com/gmh5225/idenLibX [Library Function Identification]
+- https://github.com/gmh5225/SlothBP [Collaborative Breakpoint Manager]
+- https://github.com/gmh5225/ApiBreakpoint [Api Breakpoint]
+- https://github.com/gmh5225/yummyPaste [paste string formatted byte data block into x64dbg easy]
+- https://github.com/gmh5225/x64dbg-Plugin-Manager [Plugin manager for x64dbg]
+- https://github.com/gmh5225/x64dbgPlaytime [Lua script]
+- https://github.com/gmh5225/ExpoMon [Exports monitoring]
+- https://github.com/gmh5225/x64dbg-xfg-marker [Marks XFG call signatures as data]
+- https://github.com/gmh5225/x64dbgCallFinder [Call Finder]
 - https://github.com/gmh5225/X64DBG-MapLdr [Loads the map file generated by IDA Pro]
-- https://github.com/mibho/x64dbgTraceReader [Trace Reader]
-- https://github.com/Steesha/CodeCleaner [Cleaning Themida Mutation Assembly codes]
-- https://github.com/notpidgey/ManyTypes [x64dbg typeparsing plugin with Windows types]
+- https://github.com/gmh5225/x64dbgTraceReader [Trace Reader]
+- https://github.com/gmh5225/CodeCleaner [Cleaning Themida Mutation Assembly codes]
+- https://github.com/gmh5225/ManyTypes [x64dbg typeparsing plugin with Windows types]
 - https://github.com/cycraft-corp/BinaryAnalysisMCPs [Binary analysis MCPs collections]
 
 > Cheat Engine Plugins
-- https://github.com/FreeER/CE-Extensions [Lua Extensions]
-- https://github.com/Skyrimfus/CE-lua-extensions [Lua Extensions]
-- https://github.com/bbfox0703/Mydev-Cheat-Engine-Tables [CT]
-- https://github.com/inuNorii/Elden-Ring-CT-TGA [Elden Ring]
+- https://github.com/gmh5225/CE-Extensions [Lua Extensions]
+- https://github.com/gmh5225/CE-lua-extensions [Lua Extensions]
+- https://github.com/gmh5225/Mydev-Cheat-Engine-Tables [CT]
+- https://github.com/gmh5225/Elden-Ring-CT-TGA [Elden Ring]
 - https://github.com/gmh5225/CE-remap-plugin [Remap]
 - https://github.com/gmh5225/overwatch-iat-fixer [Overwatch IAT Fixer]
-- https://github.com/FreeER/CE-Examples [Some Examples]
+- https://github.com/gmh5225/CE-Examples [Some Examples]
 - [Porting ce's monodatacollector to android/ios](https://github.com/gmh5225/frida-il2cpp-datacollector)
 - https://github.com/gmh5225/wasm-ceserver [Analyzing WebAssembly]
 - https://github.com/Eruditi/CE-MCP-Plugin [MCP for Cheat Engine]
 
 > Injection:Windows
-- https://github.com/itaymigdal/awesome-injection [awesome injection]
-- https://github.com/btbd/smap [Scatter Manual Map]
-- https://github.com/btbd/modmap [Extend Manual Map]
-- https://github.com/KGB-1337/memmap [Extend Manual Map]
-- https://github.com/weak1337/ModExMap [Extend Manual Map]
-- https://github.com/mactec0/Kernelmode-manual-mapping-through-IAT [IAT Manual Map]
+- https://github.com/gmh5225/awesome-injection [awesome injection]
+- https://github.com/gmh5225/smap [Scatter Manual Map]
+- https://github.com/gmh5225/modmap [Extend Manual Map]
+- https://github.com/gmh5225/memmap [Extend Manual Map]
+- https://github.com/gmh5225/ModExMap [Extend Manual Map]
+- https://github.com/gmh5225/Kernelmode-manual-mapping-through-IAT [IAT Manual Map]
 - https://github.com/charliewolfe/Stealthy-Kernelmode-Injector [PTE/VAD Manipulation Manual Map]
 - https://github.com/wbenny/injdrv [APC]
 - https://github.com/alexkrnl/Kernel-dll-injector [APC]
@@ -1672,7 +1672,7 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 - https://github.com/xan105/Mini-Launcher [Application launcher with DLL Injection and Lua Scripting]
 
 > Injection:Linux
-- https://github.com/itaymigdal/awesome-injection [awesome injection]
+- https://github.com/gmh5225/awesome-injection [awesome injection]
 - https://github.com/ixty/mandibule
 
 > Injection:Android
@@ -1807,7 +1807,7 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 - https://github.com/gmh5225/Pcileech-Intel-I226-V-FullEmu [Intel-I226-V]
 - https://github.com/gmh5225/Pcileech-ISABridge [Use specific PID/VID to bypass faceit]
 - https://github.com/gmh5225/vgk-dma-bypass [VGK DMA bypass]
-- https://github.com/Ptolemaios9/Pcileech-DMA-NVMe-VMD [Firmware real camouflage through motherboard VMD function.（Pcileech-DMA）]
+- https://github.com/gmh5225/Pcileech-DMA-NVMe-VMD [Firmware real camouflage through motherboard VMD function.（Pcileech-DMA）]
 
 > W2S
 - https://github.com/gmh5225/D3D11-Worldtoscreen-Finder
@@ -1891,7 +1891,7 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 - https://github.com/gmh5225/windows-kernel-exploits [Guide]
 - https://github.com/gmh5225/physmem_drivers [Vulnerable Driver List]
 - https://github.com/gmh5225/drivers_and_shit [Vulnerable Driver List]
-- https://github.com/NullArray/WinKernel-Resources/tree/main/Drivers [Vulnerable Driver List]
+- https://github.com/gmh5225/WinKernel-Resources/tree/main/Drivers [Vulnerable Driver List]
 - https://github.com/gmh5225/drivers-binaries [Vulnerable Driver List]
 - https://github.com/gmh5225/vulnerable-driver-scanner [Scans for vulnerable drivers]
 - https://github.com/gmh5225/VulnerableDriverScanner [Scans for vulnerable drivers]
@@ -2387,96 +2387,96 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 - https://github.com/gmh5225/AssetRipper [Extracting assets]
 - https://github.com/gmh5225/AssetStudio [Extracting assets]
 - https://github.com/gmh5225/assetstudio [Extracting assets/2025 updated]
-- https://github.com/axhlzy/Il2CppHookScripts [Il2Cpp Hook Scripts]
+- https://github.com/gmh5225/Il2CppHookScripts [Il2Cpp Hook Scripts]
 - https://github.com/gmh5225/Il2Cpp-HookScripts [Il2Cpp/Mono Hook Scripts]
 - https://github.com/BataBo/ACEPatcher [.NET Patcher]
 - [A tool translate a apk file to common android project and support so hook include il2cpp c++ scaffolding](https://github.com/gmh5225/FakerAndroid)
-- https://github.com/xxzzddxzd/unitySpeedTools [IOS Speed Tools]
+- https://github.com/gmh5225/unitySpeedTools [IOS Speed Tools]
 - https://github.com/gmh5225/il2cpp-finder [Il2Cpp Finder]
 - https://github.com/gmh5225/frida-il2cpp-datacollector [Il2Cpp datacollector for Android/IOS]
-- https://github.com/BepInEx/BepInEx [plugin/modding framework]
+- https://github.com/gmh5225/BepInEx [plugin/modding framework]
 - https://github.com/gmh5225/IL22CPP [ReMake of Il2cpp internal reflection system in C++]
-- https://github.com/sunnamed434/UnityVulnerableEntryPoint [Looks for a vulnerable entry point]
+- https://github.com/gmh5225/UnityVulnerableEntryPoint [Looks for a vulnerable entry point]
 - https://github.com/gmh5225/MatScan [A multi-threaded rust material scanner]
-- https://github.com/vfsfitvnm/frida-il2cpp-bridge [Frida dump Il2Cpp]
-- https://github.com/issuimo/UnityResolve.hpp [Unity cheat framwork]
-- https://github.com/ByNameModding/BNM-Android [Modding il2cpp games]
+- https://github.com/gmh5225/frida-il2cpp-bridge [Frida dump Il2Cpp]
+- https://github.com/gmh5225/UnityResolve.hpp [Unity cheat framwork]
+- https://github.com/gmh5225/BNM-Android [Modding il2cpp games]
 - https://github.com/SsageParuders/CheatUnityGames [Unity cheat framwork]
-- https://github.com/sanqiuu/AndroidCheatTemplate [Unity cheat framwork]
+- https://github.com/gmh5225/AndroidCheatTemplate [Unity cheat framwork]
 
 > Game Engine Explorer:Source
-- https://github.com/anarh1st47/Source2Dumps [Dump]
-- https://github.com/CallumCVM/ValveGen [SDK Generator]
-- https://github.com/praydog/Source2Gen [SDK Generator]
-- https://github.com/neverlosecc/source2gen [SDK Generator]
-- https://github.com/keowu/sourceengineexplorer [Explorer]
-- https://github.com/neverlosecc/source2sdk
+- https://github.com/gmh5225/Source2Dumps [Dump]
+- https://github.com/gmh5225/ValveGen [SDK Generator]
+- https://github.com/gmh5225/Source2Gen [SDK Generator]
+- https://github.com/gmh5225/source2gen [SDK Generator]
+- https://github.com/gmh5225/sourceengineexplorer [Explorer]
+- https://github.com/gmh5225/source2sdk
 
 > Explore UWP
-- https://github.com/Wunkolo/UWPDumper
+- https://github.com/gmh5225/UWPDumper
 - https://github.com/Francesco149/uwpinject [dll injector for uwp apps]
-- https://github.com/Francesco149/uwpspy [dll that hooks uwp interfaces]
+- https://github.com/gmh5225/uwpspy [dll that hooks uwp interfaces]
 
 > Explore AntiCheat System:VAC
 - https://github.com/gmh5225/VAC-Bypass-Loader
-- https://github.com/danielkrupinski/vac-hooks
-- https://github.com/mdilai/Shtreeba [Injector]
-- https://github.com/zyhp/vac3_inhibitor
-- https://github.com/krispybyte/Vook [VAC hook]
-- https://github.com/ioncodes/vacation3-emu [VAC3 module emulator]
+- https://github.com/gmh5225/vac-hooks
+- https://github.com/gmh5225/Shtreeba [Injector]
+- https://github.com/gmh5225/vac3_inhibitor
+- https://github.com/gmh5225/Vook [VAC hook]
+- https://github.com/gmh5225/vacation3-emu [VAC3 module emulator]
 - https://github.com/gmh5225/Vac-Emulator [VAC Emulator]
 - https://github.com/gmh5225/VACDumper [Dump]
-- https://github.com/x1tan/vac3-dumper [Dump]
-- https://github.com/nevioo1337/VAC-ModuleDumper [Dump]
-- https://github.com/Jackbail4/VAC-Bypass
+- https://github.com/gmh5225/vac3-dumper [Dump]
+- https://github.com/gmh5225/VAC-ModuleDumper [Dump]
+- https://github.com/gmh5225/VAC-Bypass
 - https://github.com/gmh5225/PreventVAC
-- https://github.com/b1scoito/cozinha_loader [Injector]
-- https://github.com/shuruk421/VACKeyRetrieval [Retrieves VAC module ice encryption key]
-- https://github.com/RenardDev/DumpVAC [PoC to disable VAC and dump modules with automatic decryption]
-- https://github.com/crvvdev/vac-bypass-kernel [Fully working kernel-mode VAC bypass]
+- https://github.com/gmh5225/cozinha_loader [Injector]
+- https://github.com/gmh5225/VACKeyRetrieval [Retrieves VAC module ice encryption key]
+- https://github.com/gmh5225/DumpVAC [PoC to disable VAC and dump modules with automatic decryption]
+- https://github.com/gmh5225/vac-bypass-kernel [Fully working kernel-mode VAC bypass]
 
 > Explore AntiCheat System:EAC
-- https://github.com/thesecretclub/CVEAC-2020 [Integrity Checks]
-- https://github.com/Schnocker/EAC_dbp [Debug]
+- https://github.com/gmh5225/CVEAC-2020 [Integrity Checks]
+- https://github.com/gmh5225/EAC_dbp [Debug]
 - https://github.com/gmh5225/eac-mapper [Eac Mapper]
 - https://github.com/EBalloon/MmCopyMemory [Bypass MmCopyMemory]
 - https://github.com/gmh5225/EAC-Kernel-Packet-Fucker [Packet Fucker]
 - https://github.com/gmh5225/EAC-HydraHook [Packet Fucker]
 - https://github.com/gmh5225/EazyAntiCheatSRC [Reversed Source]
-- https://github.com/chaeyk/eac-leak [EAC sdk's memory leak]
+- https://github.com/gmh5225/eac-leak [EAC sdk's memory leak]
 - https://github.com/gmh5225/EAC [SDK]
-- https://github.com/ksoju/Eac-Bypass
-- https://github.com/EBalloon/EasyAntiCheat-SRC
+- https://github.com/gmh5225/Eac-Bypass
+- https://github.com/gmh5225/EasyAntiCheat-SRC
 - https://github.com/gmh5225/EAC-EasyAntiCheat-Src-1
 - https://www.unknowncheats.me/forum/anti-cheat-bypass/458928-eacs-maskable-interrupt-callback.html [NMI]
 - https://www.unknowncheats.me/forum/anti-cheat-bypass/464943-eac-nmi-bypass-callbacks.html [NMI Bypass]
 - https://github.com/gmh5225/EasyAntiCheat-Reversing
-- https://github.com/Sinclairq/hiearchy-eac [Integrity Checks]
-- https://github.com/Rat431/EAC_Emu [Simple EasyAntiCheat x64 emulator]
+- https://github.com/gmh5225/hiearchy-eac [Integrity Checks]
+- https://github.com/gmh5225/EAC_Emu [Simple EasyAntiCheat x64 emulator]
 - https://github.com/gmh5225/eac-overlay [EAC Overlay]
 - https://github.com/gmh5225/ce-EasyAntiCheat-Bypass [UD CE]
-- https://github.com/ioncodes/pooldump [Extract the DLL that EACs manualmaps into the game process]
+- https://github.com/gmh5225/pooldump [Extract the DLL that EACs manualmaps into the game process]
 - https://github.com/gmh5225/EAC-VmCheck.asm [Virtual machine checking]
 - https://www.unknowncheats.me/forum/anti-cheat-bypass/561479-eacs-instrumentation-callback-bypass.html
 - https://github.com/gmh5225/Eac-Injector-Driver [Injector]
 - https://github.com/gmh5225/EAC-EasyAntiCheatMemorySig [Memory sig maker]
 - https://github.com/gmh5225/EAC-shellcode-1 [Shellcode]
 - https://github.com/gmh5225/EAC-Driver-UD-for-now [Sample]
-- https://github.com/lguilhermee/EAC-Extractor-Utility [Decrypt and Extract the files from the EAC]
+- https://github.com/gmh5225/EAC-Extractor-Utility [Decrypt and Extract the files from the EAC]
 - https://advancedvectorextensions.github.io/posts/easyanticheat-eprocess-emulation [EProcess Emulation]
 - https://advancedvectorextensions.github.io/posts/easyanticheat-cr3-protection [CR3 Protection]
 - https://github.com/Sinclairq/hierarchy-eac [Bypassing self-integrity]
-- https://github.com/SamuelTulach/eac_cr3_shuffle [Bypassing CR3 protection]
+- https://github.com/gmh5225/eac_cr3_shuffle [Bypassing CR3 protection]
 - https://github.com/gmh5225/Bypassing-EasyAntiCheat-Integrity-check [Bypassing integrity check]
-- https://github.com/CamxxCore/EasyAntiCheat-Emulator [EAC Emulator]
+- https://github.com/gmh5225/EasyAntiCheat-Emulator [EAC Emulator]
 - https://github.com/gmh5225/EAC-Runtime-Extractor [Extracts eac's driver at runtime without it touching the disk]
 - https://gist.github.com/gmh5225/b89938f55bcb65637168f88a433c3d4d [Skip EAC thread detection]
-- https://github.com/kprprivate/EAC-CR3-BYPASS [A simple UM + KM example of how to bypass EAC CR3]
+- https://github.com/gmh5225/EAC-CR3-BYPASS [A simple UM + KM example of how to bypass EAC CR3]
 
 
 > Explore AntiCheat System:BE
-- https://github.com/Schnocker/NoEye
-- https://github.com/ZoondEngine/NoBastian_v2 [Elevating Handle By LSASS]
+- https://github.com/gmh5225/NoEye
+- https://github.com/gmh5225/NoBastian_v2 [Elevating Handle By LSASS]
 - https://github.com/gmh5225/splendid_implanter
 - https://github.com/gmh5225/battleye-user-mode-bypass [SetWindowsHookExW]
 - https://github.com/gmh5225/BE-Emulator
@@ -3377,206 +3377,206 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://github.com/gmh5225/EC [Testing Framework]
 - https://github.com/stuxnet147/Known-Driver-Mappers [Known Driver Mappers]
 - https://github.com/DanielRTeixeira/injectAllTheThings [Injection Testing]
-- https://github.com/MahmoudZohdy/Process-Injection-Techniques [Injection Testing]
+- https://github.com/gmh5225/Process-Injection-Techniques [Injection Testing]
 - https://github.com/zoand/Injectors [Injection Testing]
-- https://github.com/guided-hacking/GuidedHacking-Injector [Injection Testing]
+- https://github.com/gmh5225/GuidedHacking-Injector [Injection Testing]
 - https://github.com/gmh5225/rust-dll-crab [Injection Testing]
 - https://github.com/gmh5225/injection [Injection Testing]
 - https://github.com/w1u0u1/kinject [Injection Testing]
-- https://github.com/D4stiny/ThreadJect [Injection Testing]
-- https://github.com/KooroshRZ/Windows-DLL-Injector [Injection Testing]
+- https://github.com/gmh5225/ThreadJect [Injection Testing]
+- https://github.com/gmh5225/Windows-DLL-Injector [Injection Testing]
 - https://github.com/Fahersto/code_injection [Injection Testing]
 - https://github.com/deepinstinct/Dirty-Vanity [Injection Testing:RtlCreateProcessReflection]
-- https://github.com/NullTerminatorr/ThreadHijackingInjector [Injection Testing]
-- https://github.com/Skengdo/simple-SetWindowsHookExW-injector [Injection Testing:SetWindowsHookExW]
+- https://github.com/gmh5225/ThreadHijackingInjector [Injection Testing]
+- https://github.com/gmh5225/simple-SetWindowsHookExW-injector [Injection Testing:SetWindowsHookExW]
 - https://github.com/gmh5225/SetWindowsHookEx-Injector [Injection Testing:SetWindowsHookExW]
 - https://github.com/gmh5225/Jektor [Injection/Shellcode Testing]
-- https://github.com/KANKOSHEV/face-injector-v2 [Injection/ Testing]
-- https://github.com/notscimmy/libelevate [Elevating Handle]
-- https://github.com/ZoondEngine/NoBastian_v2 [Elevating Handle By LSASS]
-- https://github.com/Ricardonacif/launcher-abuser [Elevating Handle]
-- https://github.com/ContionMig/LSASS-Usermode-Bypass [Elevating Handle By LSASS]
+- https://github.com/gmh5225/face-injector-v2 [Injection/ Testing]
+- https://github.com/gmh5225/libelevate [Elevating Handle]
+- https://github.com/gmh5225/NoBastian_v2 [Elevating Handle By LSASS]
+- https://github.com/gmh5225/launcher-abuser [Elevating Handle]
+- https://github.com/gmh5225/LSASS-Usermode-Bypass [Elevating Handle By LSASS]
 - https://github.com/gmh5225/LSASS-DumpThatLSASS [Elevating Handle By LSASS]
-- https://github.com/kkent030315/Van1338 [Elevating Handle By Timing Attack]
+- https://github.com/gmh5225/Van1338 [Elevating Handle By Timing Attack]
 - https://github.com/gmh5225/Handle-Ripper [DuplicateHandle]
-- https://github.com/Kudaes/Dumpy [Reuse opened handles By LSASS]
-- https://github.com/AlSch092/EasyHandles [Driver + DLL which allows us to open handles to callback-protected processes]
+- https://github.com/gmh5225/Dumpy [Reuse opened handles By LSASS]
+- https://github.com/gmh5225/EasyHandles [Driver + DLL which allows us to open handles to callback-protected processes]
 - https://github.com/zorftw/lsass-extend-mapper [Manual mapper from LSASS]
-- https://github.com/Mattiwatti/EfiGuard [PG Testing]
-- https://github.com/9176324/Shark [PG Testing]
+- https://github.com/gmh5225/EfiGuard [PG Testing]
+- https://github.com/gmh5225/Shark [PG Testing]
 - https://github.com/gmh5225/HideDriverTesting [Hide Driver Testing]
 - https://github.com/gmh5225/HideDriver [Hide Driver Testing]
 - https://github.com/gmh5225/HideDriver [Hide Driver Testing]
 - https://github.com/gmh5225/TraceCleaner [Hide Driver Testing]
-- https://github.com/muturikaranja/disable-threat-tracing [ETW Testing]
-- https://github.com/Mr-Un1k0d3r/AMSI-ETW-Patch [ETW Testing]
-- [EDRSandblast/KernellandBypass/ETWThreatIntel.c](https://github.com/wavestone-cdt/EDRSandblast/blob/master/EDRSandblast/KernellandBypass/ETWThreatIntel.c) [ETW Testing]
-- https://github.com/daswareinfach/Battleye-VAC-EAC-Kernel-Bypass [FsFilter Testing]
+- https://github.com/gmh5225/disable-threat-tracing [ETW Testing]
+- https://github.com/gmh5225/AMSI-ETW-Patch [ETW Testing]
+- [EDRSandblast/KernellandBypass/ETWThreatIntel.c](https://github.com/gmh5225/EDRSandblast/blob/master/EDRSandblast/KernellandBypass/ETWThreatIntel.c) [ETW Testing]
+- https://github.com/gmh5225/Battleye-VAC-EAC-Kernel-Bypass [FsFilter Testing]
 - https://github.com/gmh5225/MMFCodeInjection [User APC + File Mapping Testing]
-- https://github.com/liors619/TtdAntiDebugging [Debug Testing]
+- https://github.com/gmh5225/TtdAntiDebugging [Debug Testing]
 - https://github.com/gmh5225/cheat-attack-thread-slemu [Hearbeat Testing]
-- https://github.com/nkga/cheat-driver [MmCopyVirtualMemory Testing]
-- https://github.com/zxd1994/vt-debuuger [Hacked Hypervisor Testing]
+- https://github.com/gmh5225/cheat-driver [MmCopyVirtualMemory Testing]
+- https://github.com/gmh5225/vt-debuuger [Hacked Hypervisor Testing]
 - https://github.com/gmh5225/vt-debuger [Hacked Hypervisor Testing]
-- https://github.com/zer0condition/hv [Hacked Hypervisor Testing]
+- https://github.com/gmh5225/hv [Hacked Hypervisor Testing]
 - https://github.com/gmh5225/AetherVisor [Hacked Hypervisor Testing AMD]
-- https://github.com/valium007/BareSVM [Hacked Hypervisor Testing AMD]
+- https://github.com/gmh5225/BareSVM [Hacked Hypervisor Testing AMD]
 - https://github.com/noahware/hyper-reV [memory introspection and reverse engineering hypervisor powered by leveraging Hyper-V]
 - https://github.com/LabGuy94/Diskjacker [Runtime Hyper-V Hijacking with DDMA]
-- https://github.com/Idov31/NovaHypervisor [NovaHypervisor is a defensive x64 Intel host based hypervisor. The goal of this project is to protect against kernel based attacks]
-- https://github.com/rbmm/LockFile-Poc [Lock File]
+- https://github.com/gmh5225/NovaHypervisor [NovaHypervisor is a defensive x64 Intel host based hypervisor. The goal of this project is to protect against kernel based attacks]
+- https://github.com/gmh5225/LockFile-Poc [Lock File]
 - https://github.com/gmh5225/UltraDriver-Game-Cheat [Cheat Driver]
 - https://github.com/gmh5225/Kernel-Special-APC-ReadProcessMemory [RPM]
 
 > Driver Unit Test Framework
-- https://github.com/wpdk/wdutf
+- https://github.com/gmh5225/wdutf
 
 > Anti Debugging
-- https://github.com/LordNoteworthy/al-khaser
-- https://github.com/hfiref0x/WubbabooMark
-- https://github.com/samshine/ScyllaHideDetector2 
-- https://github.com/revsic/AntiDebugging
-- https://github.com/Ahora57/MAJESTY-technologies
-- https://github.com/AdvDebug/AntiCrack-DotNet [CSharp]
+- https://github.com/gmh5225/al-khaser
+- https://github.com/gmh5225/WubbabooMark
+- https://github.com/gmh5225/ScyllaHideDetector2 
+- https://github.com/gmh5225/AntiDebugging
+- https://github.com/gmh5225/MAJESTY-technologies
+- https://github.com/gmh5225/AntiCrack-DotNet [CSharp]
 - https://github.com/weak1337/CEDetector [CE]
 - https://github.com/gmh5225/Detection-CheatEngine [CE]
 - https://github.com/gmh5225/Detection-CheatEngine-Ring0 [CE]
 - https://github.com/gmh5225/AntiDbg-AmogusPlugin
 - https://gtoad.github.io/2017/06/25/Android-Anti-Debug [Android]
 - https://github.com/gmh5225/AntiDebugandMemoryDump [Android]
-- https://github.com/fiord/ADB-Debug-Detect-Checker [Android]
+- https://github.com/gmh5225/ADB-Debug-Detect-Checker [Android]
 - [Sample anti-debug with detect ScyllaHide/HyperHide and TitanHide](https://github.com/gmh5225/antidbg-Baka)
-- [Linux anti-debugging techniques](https://github.com/hiatus/adbg)
-- https://github.com/HackOvert/AntiDBG
-- https://github.com/BarakAharoni/LADD [Linux]
-- https://github.com/0xor0ne/debugoff [Linux]
+- [Linux anti-debugging techniques](https://github.com/gmh5225/adbg)
+- https://github.com/gmh5225/AntiDBG
+- https://github.com/gmh5225/LADD [Linux]
+- https://github.com/gmh5225/debugoff [Linux]
 - https://github.com/gmh5225/AntiKernelDebug-POC [Windows Kernel]
-- https://github.com/BaumFX/cpp-anti-debug
-- https://github.com/Metick/Anti-Debug
-- https://github.com/EvilBytecode/GoDefender [Anti Debugging]
-- https://github.com/Ahora57/RaceCondition
-- https://github.com/AdvDebug/AntiCrack-DotNet [DotNet]
-- https://github.com/hotline1337/umium [C++/CLI]
-- https://github.com/YouNeverKnow00/Anti-Debugger-Protector-Loader
-- https://github.com/CheckPointSW/showstopper
-- https://github.com/secrary/makin [Reveal anti-debugging and anti-VM tricks]
-- https://github.com/android1337/brkida [C++ macro for x64 programs that breaks ida hex-rays decompiler tool]
-- https://github.com/sapdragon/hint-break [A 25-year-old architectural blind spot affecting modern reverse engineering tools]
+- https://github.com/gmh5225/cpp-anti-debug
+- https://github.com/gmh5225/Anti-Debug
+- https://github.com/gmh5225/GoDefender [Anti Debugging]
+- https://github.com/gmh5225/RaceCondition
+- https://github.com/gmh5225/AntiCrack-DotNet [DotNet]
+- https://github.com/gmh5225/umium [C++/CLI]
+- https://github.com/gmh5225/Anti-Debugger-Protector-Loader
+- https://github.com/gmh5225/showstopper
+- https://github.com/gmh5225/makin [Reveal anti-debugging and anti-VM tricks]
+- https://github.com/gmh5225/brkida [C++ macro for x64 programs that breaks ida hex-rays decompiler tool]
+- https://github.com/gmh5225/hint-break [A 25-year-old architectural blind spot affecting modern reverse engineering tools]
 
 > Page Protection
-- https://github.com/changeofpace/Self-Remapping-Code
-- https://github.com/ReFo0/anti-crack-system
+- https://github.com/gmh5225/Self-Remapping-Code
+- https://github.com/gmh5225/anti-crack-system
 - https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-addsecurememorycachecallback
 - https://github.com/weak1337/NO_ACCESS_Protection
 - https://github.com/gmh5225/no-access-protection-x86
-- https://github.com/hotline1337/page_no_access
-- https://github.com/thefLink/DeepSleep
-- https://github.com/janoglezcampos/DeathSleep
+- https://github.com/gmh5225/page_no_access
+- https://github.com/gmh5225/DeepSleep
+- https://github.com/gmh5225/DeathSleep
 - https://github.com/gmh5225/Sleep-obf-T.D.P.
-- https://github.com/mgeeky/ShellcodeFluctuation
+- https://github.com/gmh5225/ShellcodeFluctuation
 - https://github.com/gmh5225/veh-printf-hook [VEH + PAGE_GUARD]
 - https://github.com/charliewolfe/PointerGuard [VEH + PAGE_GUARD]
-- https://github.com/connormcgarr/EATGuard [VEH + PAGE_GUARD]
+- https://github.com/gmh5225/EATGuard [VEH + PAGE_GUARD]
 - https://github.com/gmh5225/MemoryGuard [VEH + PAGE_GUARD]
-- https://github.com/vxCrypt0r/Voidmaw [VEH + PAGE_GUARD]
+- https://github.com/gmh5225/Voidmaw [VEH + PAGE_GUARD]
 - https://github.com/gmh5225/veh_hide_memory [VEH + PAGE_NOACCESS]
 - https://github.com/gmh5225/PAGE_NO_ACCESS-not-byfron [VEH + PAGE_NOACCESS]
-- https://github.com/saveme712/BinCon [VEH + PAGE_NOACCESS]
+- https://github.com/gmh5225/BinCon [VEH + PAGE_NOACCESS]
 
 > Binary Packer
 - https://github.com/gmh5225/awesome-executable-packing
 - https://github.com/phra/PEzor
-- https://github.com/czs108/PE-Packer [X86]
-- https://github.com/longqun/Packer [X86]
-- https://github.com/ATsahikian/pe-protector [X86]
-- https://github.com/mkaring/ConfuserEx [.NET]
+- https://github.com/gmh5225/PE-Packer [X86]
+- https://github.com/gmh5225/Packer [X86]
+- https://github.com/gmh5225/pe-protector [X86]
+- https://github.com/gmh5225/ConfuserEx [.NET]
 - https://github.com/iArtorias/debug_remover [Strip Debug Info]
 - https://github.com/ytk2128/pe32-password
-- https://github.com/frkngksl/Huan
-- https://github.com/frkngksl/HintInject [Hint/Name Table]
+- https://github.com/gmh5225/Huan
+- https://github.com/gmh5225/HintInject [Hint/Name Table]
 - https://github.com/ClaudiuGeorgiu/Obfuscapk [Android]
-- https://github.com/magnussen7/Embuche [ELF]
-- https://github.com/EgeBalci/amber
-- https://github.com/SamLarenN/PePacker
-- https://github.com/Systemcluster/wrappe [Rust]
-- https://github.com/vsteffen/woody_woodpacker [ELF]
-- https://github.com/n4sm/m0dern_p4cker [ELF]
-- https://github.com/JonDoNym/peinjector
-- https://github.com/craids/AresFramework
-- https://github.com/andrew9382/exe_packer
-- https://github.com/dr4k0nia/Origami [Compressing .net assemblies]
-- https://github.com/mix64/ELFpacker [ELF]
-- https://github.com/jnastarot/shibari [Linking multiple PE\PE + files to one]
-- [Simple ELF runtime packer for creating stealthy droppers](https://github.com/ex0dus-0x/ward)
-- [A simple packer working with all PE files which cipher your exe with a XOR implementation](https://github.com/nqntmqmqmb/xorPacker)
-- https://github.com/r0ngwe1/petoy [PE]
-- [An ELF / PE packer written in pure C](https://github.com/SilentVoid13/Silent_Packer)
-- https://github.com/droberson/ELFcrypt [ELF RC4]
-- https://github.com/timhsutw/elfuck [ELF]
-- https://github.com/Eronana/packer [PE]
-- https://github.com/akuafif/hXOR-Packer [PE XOR]
-- https://github.com/arisada/midgetpack [ELF]
-- https://github.com/friedkiwi/netcrypt [.NET]
-- https://github.com/89luca89/pakkero [ELF]
-- https://github.com/dimkr/papaw [LZMA]
-- https://github.com/akawashiro/sloader [ELF loader which aims to replace ld-linux.so of glibc]
+- https://github.com/gmh5225/Embuche [ELF]
+- https://github.com/gmh5225/amber
+- https://github.com/gmh5225/PePacker
+- https://github.com/gmh5225/wrappe [Rust]
+- https://github.com/gmh5225/woody_woodpacker [ELF]
+- https://github.com/gmh5225/m0dern_p4cker [ELF]
+- https://github.com/gmh5225/peinjector
+- https://github.com/gmh5225/AresFramework
+- https://github.com/gmh5225/exe_packer
+- https://github.com/gmh5225/Origami [Compressing .net assemblies]
+- https://github.com/gmh5225/ELFpacker [ELF]
+- https://github.com/gmh5225/shibari [Linking multiple PE\PE + files to one]
+- [Simple ELF runtime packer for creating stealthy droppers](https://github.com/gmh5225/ward)
+- [A simple packer working with all PE files which cipher your exe with a XOR implementation](https://github.com/gmh5225/xorPacker)
+- https://github.com/gmh5225/petoy [PE]
+- [An ELF / PE packer written in pure C](https://github.com/gmh5225/Silent_Packer)
+- https://github.com/gmh5225/ELFcrypt [ELF RC4]
+- https://github.com/gmh5225/elfuck [ELF]
+- https://github.com/gmh5225/packer [PE]
+- https://github.com/gmh5225/hXOR-Packer [PE XOR]
+- https://github.com/gmh5225/midgetpack [ELF]
+- https://github.com/gmh5225/netcrypt [.NET]
+- https://github.com/gmh5225/pakkero [ELF]
+- https://github.com/gmh5225/papaw [LZMA]
+- https://github.com/gmh5225/sloader [ELF loader which aims to replace ld-linux.so of glibc]
 - https://github.com/cryonumb/elfloader [ELF Loader for ps5-jar-loader]
-- https://github.com/MahmoudZohdy/IAT-Obfuscation [IAT Obfuscation]
+- https://github.com/gmh5225/IAT-Obfuscation [IAT Obfuscation]
 - https://github.com/gmh5225/shellcode-EntropyFix [Reducing entropy]
 - https://github.com/gmh5225/AtomPePacker [PE X64]
-- https://github.com/Lima-X/Win32.Nebula [PE X64]
-- https://github.com/TheAenema/hm-pe-packer [PE X64]
-- https://github.com/hid3rx/PEPacker [PE X64]
-- https://github.com/xsj3n/x64-EXE-Packer [PE X64]
-- https://github.com/frkngksl/Shoggoth [Polymorphic Encryptor]
-- https://github.com/GunshipPenguin/kiteshield [ELF X64]
+- https://github.com/gmh5225/Win32.Nebula [PE X64]
+- https://github.com/gmh5225/hm-pe-packer [PE X64]
+- https://github.com/gmh5225/PEPacker [PE X64]
+- https://github.com/gmh5225/x64-EXE-Packer [PE X64]
+- https://github.com/gmh5225/Shoggoth [Polymorphic Encryptor]
+- https://github.com/gmh5225/kiteshield [ELF X64]
 - https://github.com/gmh5225/KitsuPE [PE]
-- https://github.com/KooroshRZ/Evader [PE]
-- https://github.com/greyb1t/GreyM [PE]
-- https://github.com/DavidBuchanan314/stelf-loader [ELF X64 loader]
-- https://github.com/frank2/oxide [Written by Rust]
-- https://github.com/Washi1337/AwaitFuscator [.NET]
-- https://github.com/Fatmike-GH/Fatpack [A Windows PE packer with full TLS (Thread Local Storage) support]
-- https://github.com/caprinux/rel-fuscate [Modifying the jmprel_entry->r_offset]
-- https://github.com/dobin/SuperMega [Stealthily inject shellcode into an executable]
+- https://github.com/gmh5225/Evader [PE]
+- https://github.com/gmh5225/GreyM [PE]
+- https://github.com/gmh5225/stelf-loader [ELF X64 loader]
+- https://github.com/gmh5225/oxide [Written by Rust]
+- https://github.com/gmh5225/AwaitFuscator [.NET]
+- https://github.com/gmh5225/Fatpack [A Windows PE packer with full TLS (Thread Local Storage) support]
+- https://github.com/gmh5225/rel-fuscate [Modifying the jmprel_entry->r_offset]
+- https://github.com/gmh5225/SuperMega [Stealthily inject shellcode into an executable]
 
 > CLR Protection
-- https://github.com/endgameinc/ClrGuard
+- https://github.com/gmh5225/ClrGuard
 
 > Anti Disassembly
-- https://github.com/rrbranco/blackhat2012
+- https://github.com/gmh5225/blackhat2012
 
 > Sample Unpacker
-- https://github.com/hasherezade/mal_unpack_drv
-- https://github.com/strazzere/android-unpacker [Android]
+- https://github.com/gmh5225/mal_unpack_drv
+- https://github.com/gmh5225/android-unpacker [Android]
 
 > Dump Fix
-- https://github.com/t3ssellate/unmapper
-- https://github.com/d35ha/DumpPE
-- https://github.com/pr701/fix-arxan
+- https://github.com/gmh5225/unmapper
+- https://github.com/gmh5225/DumpPE
+- https://github.com/gmh5225/fix-arxan
 
 > Encrypt Variable
-- https://github.com/serge-14/encrypted_value [C++]
-- https://github.com/momalab/e3 [C++]
-- https://github.com/obama-gaming/xor-float [C++]
-- https://github.com/emlinhax/xv [C++]
-- https://github.com/nevergiveup-c/obfuscxx [Header-only compile-time variables obfuscation library for C++20 and later. Compiler Support: MSVC (+WDM), LLVM, GCC. Architecture Support: x86-64, ARM]
+- https://github.com/gmh5225/encrypted_value [C++]
+- https://github.com/gmh5225/e3 [C++]
+- https://github.com/gmh5225/xor-float [C++]
+- https://github.com/gmh5225/xv [C++]
+- https://github.com/gmh5225/obfuscxx [Header-only compile-time variables obfuscation library for C++20 and later. Compiler Support: MSVC (+WDM), LLVM, GCC. Architecture Support: x86-64, ARM]
 
 > Lazy Importer
-- https://github.com/JustasMasiulis/lazy_importer
-- https://github.com/hypervisor/kli
+- https://github.com/gmh5225/lazy_importer
+- https://github.com/gmh5225/kli
 - https://github.com/gmh5225/kli-ex
-- https://github.com/1hAck-0/zeroimport
-- https://github.com/emlinhax/blitz
+- https://github.com/gmh5225/zeroimport
+- https://github.com/gmh5225/blitz
 
 > Anti-Cheat Programming
-- https://github.com/m417z/thread-call-stack-scanner [Safely manage the unloading of DLLs that have been hooked into a process. Context]
+- https://github.com/gmh5225/thread-call-stack-scanner [Safely manage the unloading of DLLs that have been hooked into a process. Context]
 
 > Compile Time
 - https://github.com/gmh5225/malstring [Using c++23 compile-time magic to produce obfuscated PIC strings and arrays]
-- https://github.com/reveny/Android-Native-Import-Hide [A library for hiding and retrieving imports in ELF binaries]
-- https://github.com/emlinhax/blitz [a header-only library to dynamically resolve modules and exports while also being able to call them directly]
-- https://github.com/emlinhax/xv [single-header pointer/value encryption]
+- https://github.com/gmh5225/Android-Native-Import-Hide [A library for hiding and retrieving imports in ELF binaries]
+- https://github.com/gmh5225/blitz [a header-only library to dynamically resolve modules and exports while also being able to call them directly]
+- https://github.com/gmh5225/xv [single-header pointer/value encryption]
 - https://github.com/gmh5225/obfusheader.h [Obfusheader.h is a portable header file for C++14 compile-time obfuscation]
 - https://github.com/gmh5225/DriverBase/blob/dev/Dependencies/obfusheader.h [obfusheader.h for windows driver]
 - https://github.com/gmh5225/rust-obfuscator [Automatic Rust Obfuscator and Macro Library]
@@ -3602,11 +3602,11 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://github.com/gmh5225/xorstr [String Crypter]
 - https://github.com/gmh5225/skCrypter [String Crypter]
 - https://github.com/gmh5225/BloatedHammer [API Hammering with C++20 by folding (avoiding loops)]
-- https://github.com/obama-gaming/xor-float [xor float]
+- https://github.com/gmh5225/xor-float [xor float]
 - https://github.com/gmh5225/oxorany [obfuscated any constant encryption in compile time on any platform]
 - https://github.com/gmh5225/obfus.h [Macro-header for compile-time C obfuscation (tcc, win x86/x64)]
 - https://github.com/gmh5225/Obfusk8 [Obfusk8: C++17-Based Obfuscation Library]
-- https://github.com/nevergiveup-c/obfuscxx [Header-only compile-time variables obfuscation library for C++20 and later. Compiler Support: MSVC (+WDM), LLVM, GCC. Architecture Support: x86-64, ARM]
+- https://github.com/gmh5225/obfuscxx [Header-only compile-time variables obfuscation library for C++20 and later. Compiler Support: MSVC (+WDM), LLVM, GCC. Architecture Support: x86-64, ARM]
 - https://github.com/gmh5225/vm_str.hpp [Header only C++20 compile time string obfuscator]
 - https://github.com/gmh5225/irql [Rust: compile-time IRQL safety for Windows kernel drivers]
 
@@ -3616,7 +3616,7 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://github.com/lainswork/shellcode-factory
 - https://github.com/gmh5225/GPU_ShellCode [hide the payload inside the gpu memory]
 - https://github.com/gmh5225/Shellcrypt [A QoL tool to obfuscate shellcode. In the future will be able to chain encoding/encryption/compression methods]
-- https://github.com/dobin/SuperMega [Stealthily inject shellcode into an executable]
+- https://github.com/gmh5225/SuperMega [Stealthily inject shellcode into an executable]
 - https://github.com/mrexodia/RiscyWorkshop [Payload Obfuscation for Red Teams workshop materials]
 - https://github.com/gmh5225/byvalver [Shellcode bad-byte banisher with preserved functionalities]
 - https://github.com/gmh5225/scfw [A cross-platform C++ framework for building Windows shellcode]
@@ -3648,7 +3648,7 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://github.com/gmh5225/simplify [Java]
 - https://github.com/gmh5225/dProtect [Java/Kotlin]
 - https://github.com/gmh5225/EntropyReducer [Reduce Entropy]
-- https://github.com/Washi1337/AwaitFuscator [.NET]
+- https://github.com/gmh5225/AwaitFuscator [.NET]
 - https://github.com/gmh5225/stitch [X86: Rewrite and obfuscate code in compiled binaries]
 - https://github.com/gmh5225/Ryujin [X86 PE BIN2BIN]
 - https://github.com/gmh5225/shredder-rs [A high-fidelity x86_64 polymorphic mutation engine focused on instruction-level fragmentation and context preservation]
@@ -3816,7 +3816,7 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://github.com/a0rtega/pafish
 - https://github.com/gmh5225/Detection-Hyper-v [Hyper-v]
 - https://github.com/gmh5225/Go-Detection-Hyper-v [Hyper-v]
-- https://github.com/Ahora57/MAJESTY-technologies
+- https://github.com/gmh5225/MAJESTY-technologies
 - https://github.com/gmh5225/anticuckoo [Cuckoo]
 - https://github.com/gmh5225/anti-emulator [Android Anti-Emulator]
 - https://github.com/gmh5225/Android-Emulator-Detection [Android Anti-Emulator]
@@ -4108,7 +4108,7 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - [A tool for patching authenticode signed PE files (exe, dll, sys ..etc) without invalidating or breaking the existing signature](https://github.com/gmh5225/SigFlip)
 - [Simple program to stream offsets for your game cheat](https://github.com/gmh5225/OffsetStreaming)
 - https://github.com/gmh5225/HIGU_ntcall [Direct System Calls]
-- https://github.com/rbmm/LockFile-Poc [Lock File]
+- https://github.com/gmh5225/LockFile-Poc [Lock File]
 - https://github.com/gmh5225/IDontLikeFileLocks [Dump locked files by stealing memory-mapped section handle]
 - [A kernel exploit leveraging NtUserHardErrorControl to elevate a thread to KernelMode and achieve arbitrary kernel R/W & more](https://github.com/gmh5225/ANGRYORCHARD)
 - https://github.com/gmh5225/dll-encryptor [Able to stream a dll without touching your disk]
@@ -4192,8 +4192,8 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://github.com/gmh5225/winlator [Android application for running Windows applications with Wine and Box86/Box64]
 - https://github.com/gmh5225/WinVisor [A hypervisor-based emulator for Windows x64 user-mode executables using Windows Hypervisor Platform API]
 - https://github.com/momo5502/sogen [Windows User Space Emulator]
-- https://github.com/mojtabafalleh/emulator [Windows User Space Emulator]
-- https://github.com/binsnake/KUBERA [A x86 environment emulator for Windows user and kernel binaries]
+- https://github.com/gmh5225/emulator [Windows User Space Emulator]
+- https://github.com/gmh5225/KUBERA [A x86 environment emulator for Windows user and kernel binaries]
 - https://github.com/gmh5225/KDemu [A hybrid semi-emulated, semi-native Windows kernel driver emulator designed for advanced rootkit and anti-cheat analysis, addressing the limitations of existing emulation solutions]
 
 ## Linux Emulator
@@ -4236,6 +4236,6 @@ Adds drag- to- resize functionality to the main GTA V window](https://github.com
 - https://github.com/wmarti/xenia-mac [MacOS Port of the Xbox 360 Emulator]
 - https://github.com/rexdex/recompiler [Porting Xbox360 executables to Windows]
 - https://github.com/gmh5225/collateral-damage [Kernel exploit for Xbox SystemOS using CVE-2024-30088]
-- https://github.com/Byrom90/XenonDumper [Dumps files & data required to use the Xenon Xbox 360 Low Level Emulator]
+- https://github.com/gmh5225/XenonDumper [Dumps files & data required to use the Xenon Xbox 360 Low Level Emulator]
 - https://github.com/gmh5225/xbox360-emu [A xbox 360 emulator]
 
