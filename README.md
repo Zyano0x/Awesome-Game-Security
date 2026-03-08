@@ -682,25 +682,25 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 - https://github.com/gmh5225/ceserver-ios [Porting ceserver to iOS.Dynamic analysis]
 - https://github.com/0xiuks/ceserver-ios [An iOS port of Cheat Engine's ceserver]
 - https://github.com/gmh5225/cheat-engine-ceserver-pcileech [CE Server For Pcileech]
-- https://github.com/user23333/veh [CE Plugin For Manualmap VEH Dll]
-- https://github.com/x64dbg/x64dbg [A debugger for Windows x86/64]
-- https://github.com/marakew/syser [A debugger for Windows x86/64]
-- https://github.com/keowu/koidbg [A debugger for Windows ARM64]
+- https://github.com/gmh5225/veh [CE Plugin For Manualmap VEH Dll]
+- https://github.com/gmh5225/x64dbg [A debugger for Windows x86/64]
+- https://github.com/gmh5225/syser [A debugger for Windows x86/64]
+- https://github.com/gmh5225/koidbg [A debugger for Windows ARM64]
 - https://github.com/DoranekoSystems/DynaDbg [A debugger for Android/IOS]
-- https://github.com/Yayoi-cs/fastDbg [x86_64 native/qemu kernel debugger]
-- https://github.com/noword/GDB-Windows-Binaries [GDB]
+- https://github.com/gmh5225/fastDbg [x86_64 native/qemu kernel debugger]
+- https://github.com/gmh5225/GDB-Windows-Binaries [GDB]
 - https://github.com/ajkhoury/ReClassEx
-- https://github.com/ReClassNET/ReClass.NET
-- https://github.com/niemand-sec/ReClass.NET-DriverReader [ReClass DriverReader]
-- https://github.com/BeneficialCode/KReClassEx [Kernel ReClassEx]
+- https://github.com/gmh5225/ReClass.NET
+- https://github.com/gmh5225/ReClass.NET-DriverReader [ReClass DriverReader]
+- https://github.com/gmh5225/KReClassEx [Kernel ReClassEx]
 - https://github.com/gmh5225/ReClass-DMA [ReClass DMA]
 - https://github.com/IChooseYou/Reclass [Reclass MCP refactored]
-- https://github.com/Metick/CheatEngine-DMA [CheatEngine DMA]
-- https://github.com/kaijia2022/Cheat-Engine-DMA-Plugin [CheatEngine DMA]
-- https://github.com/x64dbg/DotX64Dbg
-- https://github.com/imugee/xdv
+- https://github.com/gmh5225/CheatEngine-DMA [CheatEngine DMA]
+- https://github.com/gmh5225/Cheat-Engine-DMA-Plugin [CheatEngine DMA]
+- https://github.com/gmh5225/DotX64Dbg
+- https://github.com/gmh5225/xdv
 - https://github.com/gmh5225/edb-debugger [For Linux]
-- https://github.com/korcankaraokcu/PINCE [For Linux]
+- https://github.com/gmh5225/PINCE [For Linux]
 - https://github.com/gmh5225/kLLDB [LLDB based debugger for Linux Kernel]
 - https://github.com/gmh5225/TitanHide
 - https://github.com/gmh5225/HyperHide 
@@ -1580,7 +1580,7 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 - https://github.com/gmh5225/drvtrace [Trace driver module transitions]
 
 > X64DBG Plugins
-- https://github.com/x64dbg/x64dbg/wiki/Plugins
+- https://github.com/gmh5225/x64dbg/wiki/Plugins
 - https://github.com/gmh5225/x64dbg-Plugin-Manager
 - https://github.com/gmh5225/Multiline-Ultimate-Assembler
 - https://github.com/x64dbg/Classroom
@@ -1792,8 +1792,8 @@ npx skills add https://github.com/gmh5225/awesome-game-security --skill reverse-
 - https://github.com/gmh5225/DMALibrary [DMA library]
 - https://github.com/gmh5225/vm [Minimal memory library for Windows/Linux]
 - https://github.com/gmh5225/ReClass-DMA [ReClass DMA]
-- https://github.com/Metick/CheatEngine-DMA [CheatEngine DMA]
-- https://github.com/kaijia2022/Cheat-Engine-DMA-Plugin [CheatEngine DMA]
+- https://github.com/gmh5225/CheatEngine-DMA [CheatEngine DMA]
+- https://github.com/gmh5225/Cheat-Engine-DMA-Plugin [CheatEngine DMA]
 - https://github.com/un4ckn0wl3z/DMACheatEngineLoader [CheatEngine DMA, not open-source]
 - https://github.com/gmh5225/MemTools [Windows/Linux DMA testing tools]
 - https://github.com/gmh5225/physpatch [Scanning and patching of the entire Windows Kernel using DMA]
